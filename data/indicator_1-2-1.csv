@@ -1,8 +1,7 @@
-AGS,Gebietseinheit,Insgesamt,Männlich,Weiblich
-0,Niedersachsen,813080,444740,368340
-1,Braunschweig,158175,85145,73030
-101,Braunschweig_Stadt,29730,15925,13805
-102,Salzgitter_Stadt,19850,10805,9045
-103,Wolfsburg_Stadt,19325,10555,8770
-151,Gifhorn,11810,6355,5455
-153,Goslar,13450,7615,5835
+Year,Group,Value
+2015,A,1
+2015,B,3
+2015,,2
+2016,A,1
+2016,B,3
+2016,,2
