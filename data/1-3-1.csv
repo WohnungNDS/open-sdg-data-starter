@@ -1,7 +1,4 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,AGS,Gebietseinheit,sex,Value
+2018,xxx,yyy,male,123
+2018,xxx,yyy,female,234
+2018,xxx,yyy,total,357
