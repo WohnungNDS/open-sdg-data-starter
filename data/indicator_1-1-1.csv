@@ -1,73 +1,185 @@
-Year,Anpassungsschicht,Migrationshintergrund,Value
-2016,Ostniedersachsen,Menschen mit Migrationshintergrund in 1000,215.4
-2016,Ostniedersachsen,Menschen mit Migrationshintergrund in Prozent,21.6
-2016,Ostniedersachsen,"Ausländerinnen
-und Ausländer",83.5
-2016,Ostniedersachsen,(Spät-)Aussiedlerinnen und (Spät-)Aussiedler,60.7
-2016,Ostniedersachsen,weitere Deutsche mit Migrationshintergrund,71.2
-2015,Ostniedersachsen,Menschen mit Migrationshintergrund in 1000," 212.9"
-2015,Ostniedersachsen,Menschen mit Migrationshintergrund in Prozent,21.6
-2015,Ostniedersachsen,"Ausländerinnen
-und Ausländer"," 77.7"
-2015,Ostniedersachsen,(Spät-)Aussiedlerinnen und (Spät-)Aussiedler," 53.5"
-2015,Ostniedersachsen,weitere Deutsche mit Migrationshintergrund,22.3
-2014,Ostniedersachsen,Menschen mit Migrationshintergrund in 1000," 207.1"
-2014,Ostniedersachsen,Menschen mit Migrationshintergrund in Prozent,21.1
-2014,Ostniedersachsen,"Ausländerinnen
-und Ausländer"," 73.5"
-2014,Ostniedersachsen,(Spät-)Aussiedlerinnen und (Spät-)Aussiedler," 56.5"
-2014,Ostniedersachsen,weitere Deutsche mit Migrationshintergrund,23.2
-2013,Ostniedersachsen,Menschen mit Migrationshintergrund in 1000," 208.2"
-2013,Ostniedersachsen,Menschen mit Migrationshintergrund in Prozent,21.3
-2013,Ostniedersachsen,"Ausländerinnen
-und Ausländer"," 64.7"
-2013,Ostniedersachsen,(Spät-)Aussiedlerinnen und (Spät-)Aussiedler," 60.8"
-2013,Ostniedersachsen,weitere Deutsche mit Migrationshintergrund,26.3
-2016,Südniedersachsen,Menschen mit Migrationshintergrund in 1000,107.6
-2016,Südniedersachsen,Menschen mit Migrationshintergrund in Prozent,17.8
-2016,Südniedersachsen,"Ausländerinnen
-und Ausländer",47.6
-2016,Südniedersachsen,(Spät-)Aussiedlerinnen und (Spät-)Aussiedler,22.3
-2016,Südniedersachsen,weitere Deutsche mit Migrationshintergrund,37.7
-2015,Südniedersachsen,Menschen mit Migrationshintergrund in 1000," 71.7"
-2015,Südniedersachsen,Menschen mit Migrationshintergrund in Prozent,12.0
-2015,Südniedersachsen,"Ausländerinnen
-und Ausländer"," 30.1"
-2015,Südniedersachsen,(Spät-)Aussiedlerinnen und (Spät-)Aussiedler," 19.3"
-2015,Südniedersachsen,weitere Deutsche mit Migrationshintergrund,104.0
-2014,Südniedersachsen,Menschen mit Migrationshintergrund in 1000," 66.7"
-2014,Südniedersachsen,Menschen mit Migrationshintergrund in Prozent,11.3
-2014,Südniedersachsen,"Ausländerinnen
-und Ausländer"," 25.1"
-2014,Südniedersachsen,(Spät-)Aussiedlerinnen und (Spät-)Aussiedler," 18.4"
-2014,Südniedersachsen,weitere Deutsche mit Migrationshintergrund,100.3
-2013,Südniedersachsen,Menschen mit Migrationshintergrund in 1000," 70.4"
-2013,Südniedersachsen,Menschen mit Migrationshintergrund in Prozent,11.8
-2013,Südniedersachsen,"Ausländerinnen
-und Ausländer"," 27.8"
-2013,Südniedersachsen,(Spät-)Aussiedlerinnen und (Spät-)Aussiedler," 16.2"
-2013,Südniedersachsen,weitere Deutsche mit Migrationshintergrund,109.1
-2016,Stat. Region Hannover,Menschen mit Migrationshintergrund in 1000,483.2
-2016,Stat. Region Hannover,Menschen mit Migrationshintergrund in Prozent,22.6
-2016,Stat. Region Hannover,"Ausländerinnen
-und Ausländer",212.4
-2016,Stat. Region Hannover,(Spät-)Aussiedlerinnen und (Spät-)Aussiedler,88.8
-2016,Stat. Region Hannover,weitere Deutsche mit Migrationshintergrund,182.0
-2015,Stat. Region Hannover,Menschen mit Migrationshintergrund in 1000," 438.4"
-2015,Stat. Region Hannover,Menschen mit Migrationshintergrund in Prozent,20.7
-2015,Stat. Region Hannover,"Ausländerinnen
-und Ausländer"," 182.2"
-2015,Stat. Region Hannover,(Spät-)Aussiedlerinnen und (Spät-)Aussiedler," 87.0"
-2015,Stat. Region Hannover,weitere Deutsche mit Migrationshintergrund,45.9
-2014,Stat. Region Hannover,Menschen mit Migrationshintergrund in 1000," 425.6"
-2014,Stat. Region Hannover,Menschen mit Migrationshintergrund in Prozent,20.2
-2014,Stat. Region Hannover,"Ausländerinnen
-und Ausländer"," 167.6"
-2014,Stat. Region Hannover,(Spät-)Aussiedlerinnen und (Spät-)Aussiedler," 93.5"
-2014,Stat. Region Hannover,weitere Deutsche mit Migrationshintergrund,49.3
-2013,Stat. Region Hannover,Menschen mit Migrationshintergrund in 1000," 419.5"
-2013,Stat. Region Hannover,Menschen mit Migrationshintergrund in Prozent,20.0
-2013,Stat. Region Hannover,"Ausländerinnen
-und Ausländer"," 159.5"
-2013,Stat. Region Hannover,(Spät-)Aussiedlerinnen und (Spät-)Aussiedler," 93.1"
-2013,Stat. Region Hannover,weitere Deutsche mit Migrationshintergrund,45.6
+Year,Gebietseinheit,GeoCode,Value
+2018,Braunschweig- Stadt,03101,248292
+2018,Salzgitter- Stadt,03102,104948
+2018,Wolfsburg- Stadt,03103,124151
+2018,Gifhorn,03151,175920
+2018,Goslar,03153,137014
+2018,Helmstedt,03154,91307
+2018,Northeim,03155,132765
+2018,Peine,03157,133965
+2018,Wolfenbüttel,03158,119960
+2018,Göttingen (ab 01.11.2016),03159,328074
+2018,Region Hannover,03241,1157624
+2018,  dav. Hannover- Landeshauptstadt,03241001,538068
+2018,Diepholz,03251,216886
+2018,Hameln-Pyrmont,03252,148559
+2018,Hildesheim,03254,276594
+2018,Holzminden,03255,70975
+2018,Nienburg (Weser),03256,121386
+2018,Schaumburg,03257,157781
+2018,Celle,03351,178936
+2018,Cuxhaven,03352,198213
+2018,Harburg,03353,252776
+2018,Lüchow-Dannenberg,03354,48424
+2018,Lüneburg,03355,183372
+2018,Osterholz,03356,113517
+2018,Rotenburg (Wümme),03357,163455
+2018,Heidekreis,03358,139755
+2018,Stade,03359,203102
+2018,Uelzen,03360,92572
+2018,Verden,03361,136792
+2018,Delmenhorst- Stadt,03401,77607
+2018,Emden- Stadt,03402,50195
+2018,Oldenburg (Oldb)- Stadt,03403,168210
+2018,Osnabrück- Stadt,03404,164748
+2018,Wilhelmshaven- Stadt,03405,76278
+2018,Ammerland,03451,124071
+2018,Aurich,03452,189848
+2018,Cloppenburg,03453,169348
+2018,Emsland,03454,325657
+2018,Friesland,03455,98460
+2018,Grafschaft Bentheim,03456,136511
+2018,Leer,03457,169809
+2018,Oldenburg,03458,130144
+2018,Osnabrück,03459,357343
+2018,Vechta,03460,141598
+2018,Wesermarsch,03461,88624
+2018,Wittmund,03462,56882
+2017,Braunschweig- Stadt,03101,248023
+2017,Salzgitter- Stadt,03102,104548
+2017,Wolfsburg- Stadt,03103,123914
+2017,Gifhorn,03151,175079
+2017,Goslar,03153,137563
+2017,Helmstedt,03154,91720
+2017,Northeim,03155,133046
+2017,Peine,03157,133368
+2017,Wolfenbüttel,03158,120437
+2017,Göttingen (ab 01.11.2016),03159,328036
+2017,Region Hannover,03241,1152675
+2017,  dav. Hannover- Landeshauptstadt,03241001,535061
+2017,Diepholz,03251,216012
+2017,Hameln-Pyrmont,03252,148296
+2017,Hildesheim,03254,276640
+2017,Holzminden,03255,71144
+2017,Nienburg (Weser),03256,121470
+2017,Schaumburg,03257,157883
+2017,Celle,03351,178764
+2017,Cuxhaven,03352,198100
+2017,Harburg,03353,251511
+2017,Lüchow-Dannenberg,03354,48357
+2017,Lüneburg,03355,182930
+2017,Osterholz,03356,113105
+2017,Rotenburg (Wümme),03357,163377
+2017,Heidekreis,03358,139099
+2017,Stade,03359,201887
+2017,Uelzen,03360,92744
+2017,Verden,03361,136590
+2017,Delmenhorst- Stadt,03401,77521
+2017,Emden- Stadt,03402,50607
+2017,Oldenburg (Oldb)- Stadt,03403,167081
+2017,Osnabrück- Stadt,03404,164374
+2017,Wilhelmshaven- Stadt,03405,76316
+2017,Ammerland,03451,123377
+2017,Aurich,03452,189949
+2017,Cloppenburg,03453,167925
+2017,Emsland,03454,323636
+2017,Friesland,03455,98509
+2017,Grafschaft Bentheim,03456,135859
+2017,Leer,03457,168946
+2017,Oldenburg,03458,129924
+2017,Osnabrück,03459,356140
+2017,Vechta,03460,140540
+2017,Wesermarsch,03461,89022
+2017,Wittmund,03462,56731
+2016,Braunschweig- Stadt,03101,248667
+2016,Salzgitter- Stadt,03102,103668
+2016,Wolfsburg- Stadt,03103,123909
+2016,Gifhorn,03151,174749
+2016,Goslar,03153,137979
+2016,Helmstedt,03154,92079
+2016,Northeim,03155,133610
+2016,Peine,03157,132979
+2016,Wolfenbüttel,03158,120904
+2016,Göttingen (ab 01.11.2016),03159,327065
+2016,Region Hannover,03241,1148700
+2016,  dav. Hannover- Landeshauptstadt,03241001,532864
+2016,Diepholz,03251,215082
+2016,Hameln-Pyrmont,03252,148265
+2016,Hildesheim,03254,277300
+2016,Holzminden,03255,71510
+2016,Nienburg (Weser),03256,121503
+2016,Schaumburg,03257,157616
+2016,Celle,03351,178370
+2016,Cuxhaven,03352,198670
+2016,Harburg,03353,250326
+2016,Lüchow-Dannenberg,03354,48825
+2016,Lüneburg,03355,181605
+2016,Osterholz,03356,112695
+2016,Rotenburg (Wümme),03357,163372
+2016,Heidekreis,03358,139641
+2016,Stade,03359,201638
+2016,Uelzen,03360,92961
+2016,Verden,03361,135842
+2016,Delmenhorst- Stadt,03401,77045
+2016,Emden- Stadt,03402,50486
+2016,Oldenburg (Oldb)- Stadt,03403,165711
+2016,Osnabrück- Stadt,03404,164070
+2016,Wilhelmshaven- Stadt,03405,76201
+2016,Ammerland,03451,122698
+2016,Aurich,03452,190066
+2016,Cloppenburg,03453,165930
+2016,Emsland,03454,321391
+2016,Friesland,03455,98409
+2016,Grafschaft Bentheim,03456,135770
+2016,Leer,03457,168253
+2016,Oldenburg,03458,129484
+2016,Osnabrück,03459,354807
+2016,Vechta,03460,139671
+2016,Wesermarsch,03461,89282
+2016,Wittmund,03462,56881
+2015,Braunschweig- Stadt,03101,251364
+2015,Salzgitter- Stadt,03102,101079
+2015,Wolfsburg- Stadt,03103,124045
+2015,Gifhorn,03151,174205
+2015,Goslar,03153,138236
+2015,Helmstedt,03154,91500
+2015,Northeim,03155,134896
+2015,Peine,03157,132320
+2015,Wolfenbüttel,03158,120981
+2015,Göttingen (ab 01.11.2016),03159,-
+2015,Region Hannover,03241,1144481
+2015,  dav. Hannover- Landeshauptstadt,03241001,532163
+2015,Diepholz,03251,213976
+2015,Hameln-Pyrmont,03252,148281
+2015,Hildesheim,03254,277055
+2015,Holzminden,03255,71659
+2015,Nienburg (Weser),03256,120632
+2015,Schaumburg,03257,156206
+2015,Celle,03351,177971
+2015,Cuxhaven,03352,198103
+2015,Harburg,03353,248122
+2015,Lüchow-Dannenberg,03354,50128
+2015,Lüneburg,03355,180719
+2015,Osterholz,03356,113579
+2015,Rotenburg (Wümme),03357,163253
+2015,Heidekreis,03358,140264
+2015,Stade,03359,200054
+2015,Uelzen,03360,93131
+2015,Verden,03361,134645
+2015,Delmenhorst- Stadt,03401,76323
+2015,Emden- Stadt,03402,50694
+2015,Oldenburg (Oldb)- Stadt,03403,163830
+2015,Osnabrück- Stadt,03404,162403
+2015,Wilhelmshaven- Stadt,03405,75995
+2015,Ammerland,03451,121435
+2015,Aurich,03452,189199
+2015,Cloppenburg,03453,164734
+2015,Emsland,03454,319488
+2015,Friesland,03455,97900
+2015,Grafschaft Bentheim,03456,135662
+2015,Leer,03457,167548
+2015,Oldenburg,03458,128608
+2015,Osnabrück,03459,358079
+2015,Vechta,03460,137866
+2015,Wesermarsch,03461,89239
+2015,Wittmund,03462,57173
