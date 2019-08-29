@@ -24,7 +24,7 @@ Year,Gebietseinheit,GeoCode,Value
 2018,Osterholz,03356,113517
 2018,Rotenburg (Wümme),03357,163455
 2018,Heidekreis,03358,139755
-2018,Stade,03359,203102
+2018,Stade,K03359,203102
 2018,Uelzen,03360,92572
 2018,Verden,03361,136792
 2018,Delmenhorst- Stadt,03401,77607
@@ -69,7 +69,7 @@ Year,Gebietseinheit,GeoCode,Value
 2017,Osterholz,03356,113105
 2017,Rotenburg (Wümme),03357,163377
 2017,Heidekreis,03358,139099
-2017,Stade,03359,201887
+2017,Stade,K03359,201887
 2017,Uelzen,03360,92744
 2017,Verden,03361,136590
 2017,Delmenhorst- Stadt,03401,77521
@@ -114,7 +114,7 @@ Year,Gebietseinheit,GeoCode,Value
 2016,Osterholz,03356,112695
 2016,Rotenburg Wümme,03357,163372
 2016,Heidekreis,03358,139641
-2016,Stade,03359,201638
+2016,Stade,K03359,201638
 2016,Uelzen,03360,92961
 2016,Verden,03361,135842
 2016,Delmenhorst- Stadt,03401,77045
@@ -159,7 +159,7 @@ Year,Gebietseinheit,GeoCode,Value
 2015,Osterholz,03356,113579
 2015,Rotenburg (Wümme),03357,163253
 2015,Heidekreis,03358,140264
-2015,Stade,03359,200054
+2015,Stade,K03359,200054
 2015,Uelzen,03360,93131
 2015,Verden,03361,134645
 2015,Delmenhorst- Stadt,03401,76323
