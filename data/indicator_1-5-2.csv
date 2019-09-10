@@ -699,9 +699,9 @@ Year,Gebietseinheit,GeoCode,Value
 1981,Hannover.Landeshauptstadt,K03241001,1.69
 1982,Hannover.Landeshauptstadt,K03241001,1.77
 1983,Hannover.Landeshauptstadt,K03241001,0.00
-1984,Hannover.Landeshauptstadt,K03241001,#WERT!
-1985,Hannover.Landeshauptstadt,K03241001,#WERT!
-1986,Hannover.Landeshauptstadt,K03241001,#WERT!
+1984,Hannover.Landeshauptstadt,K03241001,0
+1985,Hannover.Landeshauptstadt,K03241001,0
+1986,Hannover.Landeshauptstadt,K03241001,0
 1987,Hannover.Landeshauptstadt,K03241001,1.14
 1988,Hannover.Landeshauptstadt,K03241001,1.26
 1989,Hannover.Landeshauptstadt,K03241001,1.16
@@ -1199,17 +1199,17 @@ Year,Gebietseinheit,GeoCode,Value
 1991,Harburg,K03353,7.27
 1992,Harburg,K03353,7.56
 1993,Harburg,K03353,0.00
-1994,Harburg,K03353,#WERT!
-1995,Harburg,K03353,#WERT!
-1996,Harburg,K03353,#WERT!
-1997,Harburg,K03353,#WERT!
-1998,Harburg,K03353,#WERT!
-1999,Harburg,K03353,#WERT!
-2000,Harburg,K03353,#WERT!
-2001,Harburg,K03353,#WERT!
-2002,Harburg,K03353,#WERT!
-2003,Harburg,K03353,#WERT!
-2004,Harburg,K03353,#WERT!
+1994,Harburg,K03353,0
+1995,Harburg,K03353,0
+1996,Harburg,K03353,0
+1997,Harburg,K03353,0
+1998,Harburg,K03353,0
+1999,Harburg,K03353,0
+2000,Harburg,K03353,0
+2001,Harburg,K03353,0
+2002,Harburg,K03353,0
+2003,Harburg,K03353,0
+2004,Harburg,K03353,0
 2005,Harburg,K03353,1.19
 2006,Harburg,K03353,1.19
 2007,Harburg,K03353,1.19
@@ -1299,8 +1299,8 @@ Year,Gebietseinheit,GeoCode,Value
 1993,Lüneburg,K03355,6.62
 1994,Lüneburg,K03355,6.74
 1995,Lüneburg,K03355,0.00
-1996,Lüneburg,K03355,#WERT!
-1997,Lüneburg,K03355,#WERT!
+1996,Lüneburg,K03355,0
+1997,Lüneburg,K03355,0
 1998,Lüneburg,K03355,1.07
 1999,Lüneburg,K03355,1.19
 2000,Lüneburg,K03355,1.17
@@ -1349,9 +1349,9 @@ Year,Gebietseinheit,GeoCode,Value
 1994,Osterholz,K03356,5.33
 1995,Osterholz,K03356,5.48
 1996,Osterholz,K03356,0.00
-1997,Osterholz,K03356,#WERT!
-1998,Osterholz,K03356,#WERT!
-1999,Osterholz,K03356,#WERT!
+1997,Osterholz,K03356,0
+1998,Osterholz,K03356,0
+1999,Osterholz,K03356,0
 2000,Osterholz,K03356,1.10
 2001,Osterholz,K03356,1.13
 2002,Osterholz,K03356,1.15
@@ -1499,8 +1499,8 @@ Year,Gebietseinheit,GeoCode,Value
 1997,Stade,K03359,7.96
 1998,Stade,K03359,8.51
 1999,Stade,K03359,0.00
-2000,Stade,K03359,#WERT!
-2001,Stade,K03359,#WERT!
+2000,Stade,K03359,0
+2001,Stade,K03359,0
 2002,Stade,K03359,1.09
 2003,Stade,K03359,1.41
 2004,Stade,K03359,1.43
@@ -1899,7 +1899,7 @@ Year,Gebietseinheit,GeoCode,Value
 2005,Wilhelmshaven.Stadt,K03405,8.49
 2006,Wilhelmshaven.Stadt,K03405,9.25
 2007,Wilhelmshaven.Stadt,K03405,0.00
-2008,Wilhelmshaven.Stadt,K03405,#WERT!
+2008,Wilhelmshaven.Stadt,K03405,0
 2009,Wilhelmshaven.Stadt,K03405,1.06
 2010,Wilhelmshaven.Stadt,K03405,1.23
 2011,Wilhelmshaven.Stadt,K03405,1.41
@@ -1949,23 +1949,23 @@ Year,Gebietseinheit,GeoCode,Value
 2006,Ammerland,K03451,5.63
 2007,Ammerland,K03451,5.96
 2008,Ammerland,K03451,0.00
-2009,Ammerland,K03451,#WERT!
-2010,Ammerland,K03451,#WERT!
-2011,Ammerland,K03451,#WERT!
-2012,Ammerland,K03451,#WERT!
-2013,Ammerland,K03451,#WERT!
-2014,Ammerland,K03451,#WERT!
-2015,Ammerland,K03451,#WERT!
-2016,Ammerland,K03451,#WERT!
-2017,Ammerland,K03451,#WERT!
-2018,Ammerland,K03451,#WERT!
-1970,Aurich,K03452,#WERT!
+2009,Ammerland,K03451,0
+2010,Ammerland,K03451,0
+2011,Ammerland,K03451,0
+2012,Ammerland,K03451,0
+2013,Ammerland,K03451,0
+2014,Ammerland,K03451,0
+2015,Ammerland,K03451,0
+2016,Ammerland,K03451,0
+2017,Ammerland,K03451,0
+2018,Ammerland,K03451,0
+1970,Aurich,K03452,0
 1971,Aurich,K03452,1.05
 1972,Aurich,K03452,1.06
 1973,Aurich,K03452,1.06
-1974,Aurich,K03452,#WERT!
-1975,Aurich,K03452,#WERT!
-1976,Aurich,K03452,#WERT!
+1974,Aurich,K03452,0
+1975,Aurich,K03452,0
+1976,Aurich,K03452,0
 1977,Aurich,K03452,1.03
 1978,Aurich,K03452,1.12
 1979,Aurich,K03452,1.32
@@ -1999,9 +1999,9 @@ Year,Gebietseinheit,GeoCode,Value
 2007,Aurich,K03452,5.38
 2008,Aurich,K03452,5.55
 2009,Aurich,K03452,0.00
-2010,Aurich,K03452,#WERT!
-2011,Aurich,K03452,#WERT!
-2012,Aurich,K03452,#WERT!
+2010,Aurich,K03452,0
+2011,Aurich,K03452,0
+2012,Aurich,K03452,0
 2013,Aurich,K03452,1.14
 2014,Aurich,K03452,1.16
 2015,Aurich,K03452,1.09
@@ -2199,7 +2199,7 @@ Year,Gebietseinheit,GeoCode,Value
 2011,Grafschaft Bentheim,K03456,1.41
 2012,Grafschaft Bentheim,K03456,1.45
 2013,Grafschaft Bentheim,K03456,0.00
-2014,Grafschaft Bentheim,K03456,#WERT!
+2014,Grafschaft Bentheim,K03456,0
 2015,Grafschaft Bentheim,K03456,1.02
 2016,Grafschaft Bentheim,K03456,1.06
 2017,Grafschaft Bentheim,K03456,1.22
@@ -2249,9 +2249,9 @@ Year,Gebietseinheit,GeoCode,Value
 2012,Leer,K03457,7.46
 2013,Leer,K03457,7.96
 2014,Leer,K03457,0.00
-2015,Leer,K03457,#WERT!
-2016,Leer,K03457,#WERT!
-2017,Leer,K03457,#WERT!
+2015,Leer,K03457,0
+2016,Leer,K03457,0
+2017,Leer,K03457,0
 2018,Leer,K03457,1.26
 1970,Oldenburg,K03458,1.25
 1971,Oldenburg,K03458,1.23
@@ -2319,11 +2319,11 @@ Year,Gebietseinheit,GeoCode,Value
 1984,Osnabrück,K03459,2.81
 1985,Osnabrück,K03459,3.18
 1986,Osnabrück,K03459,2.10
-1987,Osnabrück,K03459,#WERT!
-1988,Osnabrück,K03459,#WERT!
-1989,Osnabrück,K03459,#WERT!
-1990,Osnabrück,K03459,#WERT!
-1991,Osnabrück,K03459,#WERT!
+1987,Osnabrück,K03459,0
+1988,Osnabrück,K03459,0
+1989,Osnabrück,K03459,0
+1990,Osnabrück,K03459,0
+1991,Osnabrück,K03459,0
 1992,Osnabrück,K03459,5.25
 1993,Osnabrück,K03459,5.28
 1994,Osnabrück,K03459,5.30
@@ -2349,7 +2349,7 @@ Year,Gebietseinheit,GeoCode,Value
 2014,Osnabrück,K03459,7.71
 2015,Osnabrück,K03459,8.16
 2016,Osnabrück,K03459,0.00
-2017,Osnabrück,K03459,#WERT!
+2017,Osnabrück,K03459,0
 2018,Osnabrück,K03459,1.31
 1970,Vechta,K03460,1.69
 1971,Vechta,K03460,2.14
@@ -2449,16 +2449,16 @@ Year,Gebietseinheit,GeoCode,Value
 2016,Wesermarsch,K03461,7.53
 2017,Wesermarsch,K03461,7.82
 2018,Wesermarsch,K03461,0.00
-1970,Wittmund,K03462,#WERT!
-1971,Wittmund,K03462,#WERT!
-1972,Wittmund,K03462,#WERT!
-1973,Wittmund,K03462,#WERT!
-1974,Wittmund,K03462,#WERT!
-1975,Wittmund,K03462,#WERT!
-1976,Wittmund,K03462,#WERT!
-1977,Wittmund,K03462,#WERT!
-1978,Wittmund,K03462,#WERT!
-1979,Wittmund,K03462,#WERT!
+1970,Wittmund,K03462,0
+1971,Wittmund,K03462,0
+1972,Wittmund,K03462,0
+1973,Wittmund,K03462,0
+1974,Wittmund,K03462,0
+1975,Wittmund,K03462,0
+1976,Wittmund,K03462,0
+1977,Wittmund,K03462,0
+1978,Wittmund,K03462,0
+1979,Wittmund,K03462,0
 1980,Wittmund,K03462,1.11
 1981,Wittmund,K03462,1.20
 1982,Wittmund,K03462,1.26
