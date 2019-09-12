@@ -28,42 +28,42 @@ prose:
       - name: "indicator_name"
         field:
             element: text
-            label: "Indicator name"
+            label: "Indikatorname"
             scope: global
-      - name: "indicator"
-        field:
-            element: hidden
-            label: "Indicator number"
-            scope: global
+   #   - name: "indicator"
+   #     field:
+   #         element: hidden
+   #         label: "Indicator number"
+   #         scope: global
       - name: "target"
         field:
             element: text
             label: "Target name"
             scope: global
-      - name: "target_id"
-        field:
-            element: text
-            label: "Target number"
-            scope: global
+    #  - name: "target_id"
+    #   field:
+    #        element: text
+    #        label: "Target number"
+    #        scope: global
       - name: "indicator_definition"
         field:
             element: textarea
-            label: "Global indicator description"
+            label: "Definition des Indikators"
             scope: global
-      - name: "un_designated_tier"
-        field:
-            element: text
-            label: "UN designated tier"
-            scope: global
-      - name: "un_custodian_agency"
-        field:
-            element: text
-            label: "UN custodian agency"
-            scope: global
+    #  - name: "un_designated_tier"
+    #    field:
+    #        element: text
+    #        label: "UN designated tier"
+    #        scope: global
+    #  - name: "un_custodian_agency"
+    #    field:
+    #        element: text
+    #        label: "UN custodian agency"
+    #        scope: global
       - name: "goal_meta_link"
         field:
             element: text
-            label: "Link to UN metadata"
+            label: "Weitere Daten"
             scope: global
       - name: "goal_meta_link_text"
         field:
