@@ -28,42 +28,42 @@ prose:
       - name: "indicator_name"
         field:
             element: text
-            label: "Indikatorname"
+            label: "Indicator name"
             scope: global
-   #   - name: "indicator"
-   #     field:
-   #         element: hidden
-   #         label: "Indicator number"
-   #         scope: global
+      - name: "indicator"
+        field:
+            element: hidden
+            label: "Indicator number"
+            scope: global
       - name: "target"
         field:
             element: text
             label: "Target name"
             scope: global
-    #  - name: "target_id"
-    #   field:
-    #        element: text
-    #        label: "Target number"
-    #        scope: global
+      - name: "target_id"
+        field:
+            element: text
+            label: "Target number"
+            scope: global
       - name: "indicator_definition"
         field:
             element: textarea
-            label: "Definition des Indikators"
+            label: "Global indicator description"
             scope: global
-    #  - name: "un_designated_tier"
-    #    field:
-    #        element: text
-    #        label: "UN designated tier"
-    #        scope: global
-    #  - name: "un_custodian_agency"
-    #    field:
-    #        element: text
-    #        label: "UN custodian agency"
-    #        scope: global
+      - name: "un_designated_tier"
+        field:
+            element: text
+            label: "UN designated tier"
+            scope: global
+      - name: "un_custodian_agency"
+        field:
+            element: text
+            label: "UN custodian agency"
+            scope: global
       - name: "goal_meta_link"
         field:
             element: text
-            label: "Weitere Daten"
+            label: "Link to UN metadata"
             scope: global
       - name: "goal_meta_link_text"
         field:
@@ -72,6 +72,11 @@ prose:
             value: "UN metadata"
             scope: global
       ######### National Metadata #########
+      - name: "national_indicator_available"
+        field:
+            element: text
+            label: "Indicator available"
+            scope: national
       - name: "national_indicator_description"
         field:
             element: text
@@ -102,12 +107,7 @@ prose:
             element: text
             label: "Other information"
             scope: national
-     - name: "national_indicator_available"
-        field:
-            element: text
-            label: "Indicator available"
-            scope: national
-     - name: "national_data_update_url"
+      - name: "national_data_update_url"
         field:
             element: hidden
             label: "Data last updated"
