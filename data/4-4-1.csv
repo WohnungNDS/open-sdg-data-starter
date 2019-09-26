@@ -1,81 +1,481 @@
-Year,Gebietseinheit,Nutzfläche des Gebäudes (100 qm),Wohnungen,GeoCode,Value
-2017,Niedersachsen,42338,,K00,42388
-2017,Braunschweig,8803,,K01,8803
-2017,Braunschweig-St,1085,,K0101,1085
-2017,Salzgitter-Stad,2,,K0102,266
-2017,Wolfsburg-Stadt,42388,,K0103,1303
-2017,Gifhorn,8803,,K0151,1288
-2017,Goslar,1085,,K0153,188
-2017,Goslar-Stadt,266,,K0153017,44
-2017,Goslar (oh. Gos,1303,,K0153900,144
-2017,Helmstedt,1288,,K0154,197
-2017,Northeim,188,,K0155,503
-2017,Peine,44,,K0157,1302
-2017,Peine-Stadt,144,,K0157006,1104
-2017,Peine (oh. Pein,197,,K0157900,198
-2017,Wolfenbüttel,503,,K0158,87
-2017,Wolfenbüttel-St,1302,,K0158037,39
-2017,Wolfenbüttel (o,1104,,K0158900,49
-2017,Göttingen,198,,K0159,2585
-2017,Göttingen-Stadt,87,,K0159016,1526
-2017,Göttingen (oh.,39,,K0159900,1058
-2017,Hannover,49,,K02,6894
-2017,Hannover-Region,2585,,K0241,4046
-2017,Hannover-Landes,1526,,K0241001,1018
-2017,Garbsen-Stadt,1058,,K0241005,436
-2017,Langenhagen-Sta,6894,,K0241010,869
-2017,Hann.Reg.(oh.Ha,4046,,K0241900,1723
-2017,Diepholz,1018,,K0251,744
-2017,Hameln-Pyrmont,436,,K0252,168
-2017,Hameln-Stadt,869,,K0252006,133
-2017,Hameln-Pyrmont,1723,,K0252900,35
-2017,Hildesheim,744,,K0254,942
-2017,Hildesheim-Stad,168,,K0254021,508
-2017,Hildesheim(oh.H,133,,K0254900,434
-2017,Holzminden,35,,K0255,184
-2017,Nienburg (Weser,942,,K0256,383
-2017,Schaumburg,508,,K0257,426
-2017,Lüneburg,434,,K03,8421
-2017,Celle,184,,K0351,325
-2017,Celle-Stadt,383,,K0351006,146
-2017,Celle (oh.Celle,426,,K0351900,178
-2017,Cuxhaven,8421,,K0352,974
-2017,Cuxhaven-Stadt,325,,K0352011,170
-2017,Cuxhaven (oh. C,146,,K0352900,804
-2017,Harburg,178,,K0353,1808
-2017,Lüchow-Dannenbe,974,,K0354,275
-2017,Lüneburg,170,,K0355,457
-2017,Lüneburg-Hanses,804,,K0355022,175
-2017,Lüneburg (oh. L,1808,,K0355900,282
-2017,Osterholz,275,,K0356,486
-2017,Rotenburg (Wümm,457,,K0357,1184
-2017,Heidekreis,175,,K0358,471
-2017,Stade,282,,K0359,1350
-2017,Stade-Hansestad,486,,K0359038,367
-2017,Stade (oh.Stade,1184,,K0359900,983
-2017,Uelzen,471,,K0360,362
-2017,Verden,1350,,K0361,730
-2017,Weser-Ems,367,,K04,18270
-2017,Delmenhorst-Sta,983,,K0401,232
-2017,Emden-Stadt,362,,K0402,155
-2017,Oldenburg(Oldb),730,,K0403,481
-2017,Osnabrück-Stadt,18270,,K0404,385
-2017,Wilhelmshaven-S,232,,K0405,70
-2017,Ammerland,155,,K0451,1175
-2017,Aurich,481,,K0452,1109
-2017,Cloppenburg,385,,K0453,1582
-2017,Emsland,70,,K0454,4899
-2017,Lingen (Ems)-St,1175,,K0454032,451
-2017,Emsland (oh. Li,1109,,K0454900,4449
-2017,Friesland,1582,,K0455,621
-2017,Grafschaft Bent,4899,,K0456,1373
-2017,Nordhorn-Stadt,451,,K0456015,342
-2017,Grfsch.Bentheim,4449,,K0456900,1030
-2017,Leer,621,,K0457,647
-2017,Oldenburg,1373,,K0458,468
-2017,Osnabrück,342,,K0459,2233
-2017,Melle-Stadt,1030,,K0459024,246
-2017,Osnabrück (oh.M,647,,K0459900,1987
-2017,Vechta,468,,K0460,2214
-2017,Wesermarsch,2233,,K0461,253
-2017,Wittmund,246,,K0462,373
+Year,Gebietseinheit,Nutzfläche,Wohnungen,GeoCode,Value
+2017,Niedersachsen,Nutzfläche des Gebäudes (100 qm),,,42388
+2017,Braunschweig,Nutzfläche des Gebäudes (100 qm),,,8803
+2017,Braunschweig-St,Nutzfläche des Gebäudes (100 qm),,K0101,1085
+2017,Salzgitter-Stad,Nutzfläche des Gebäudes (100 qm),,K0102,266
+2017,Wolfsburg-Stadt,Nutzfläche des Gebäudes (100 qm),,K0103,1303
+2017,Gifhorn,Nutzfläche des Gebäudes (100 qm),,K0151,1288
+2017,Goslar,Nutzfläche des Gebäudes (100 qm),,K0153,188
+2017,Goslar-Stadt,Nutzfläche des Gebäudes (100 qm),,,44
+2017,Goslar (oh. Gos,Nutzfläche des Gebäudes (100 qm),,,144
+2017,Helmstedt,Nutzfläche des Gebäudes (100 qm),,K0154,197
+2017,Northeim,Nutzfläche des Gebäudes (100 qm),,K0155,503
+2017,Peine,Nutzfläche des Gebäudes (100 qm),,K0157,1302
+2017,Peine-Stadt,Nutzfläche des Gebäudes (100 qm),,,1104
+2017,Peine (oh. Pein,Nutzfläche des Gebäudes (100 qm),,,198
+2017,Wolfenbüttel,Nutzfläche des Gebäudes (100 qm),,K0158,87
+2017,Wolfenbüttel-St,Nutzfläche des Gebäudes (100 qm),,,39
+2017,Wolfenbüttel (o,Nutzfläche des Gebäudes (100 qm),,,49
+2017,Göttingen,Nutzfläche des Gebäudes (100 qm),,K0159,2585
+2017,Göttingen-Stadt,Nutzfläche des Gebäudes (100 qm),,,1526
+2017,Göttingen (oh.,Nutzfläche des Gebäudes (100 qm),,,1058
+2017,Hannover,Nutzfläche des Gebäudes (100 qm),,,6894
+2017,Hannover-Region,Nutzfläche des Gebäudes (100 qm),,K0241,4046
+2017,Hannover-Landes,Nutzfläche des Gebäudes (100 qm),,,1018
+2017,Garbsen-Stadt,Nutzfläche des Gebäudes (100 qm),,,436
+2017,Langenhagen-Sta,Nutzfläche des Gebäudes (100 qm),,,869
+2017,Hann.Reg.(oh.Ha,Nutzfläche des Gebäudes (100 qm),,,1723
+2017,Diepholz,Nutzfläche des Gebäudes (100 qm),,K0251,744
+2017,Hameln-Pyrmont,Nutzfläche des Gebäudes (100 qm),,K0252,168
+2017,Hameln-Stadt,Nutzfläche des Gebäudes (100 qm),,,133
+2017,Hameln-Pyrmont,Nutzfläche des Gebäudes (100 qm),,,35
+2017,Hildesheim,Nutzfläche des Gebäudes (100 qm),,K0254,942
+2017,Hildesheim-Stad,Nutzfläche des Gebäudes (100 qm),,,508
+2017,Hildesheim(oh.H,Nutzfläche des Gebäudes (100 qm),,,434
+2017,Holzminden,Nutzfläche des Gebäudes (100 qm),,K0255,184
+2017,Nienburg (Weser,Nutzfläche des Gebäudes (100 qm),,K0256,383
+2017,Schaumburg,Nutzfläche des Gebäudes (100 qm),,K0257,426
+2017,Lüneburg,Nutzfläche des Gebäudes (100 qm),,,8421
+2017,Celle,Nutzfläche des Gebäudes (100 qm),,K0351,325
+2017,Celle-Stadt,Nutzfläche des Gebäudes (100 qm),,,146
+2017,Celle (oh.Celle,Nutzfläche des Gebäudes (100 qm),,,178
+2017,Cuxhaven,Nutzfläche des Gebäudes (100 qm),,K0352,974
+2017,Cuxhaven-Stadt,Nutzfläche des Gebäudes (100 qm),,,170
+2017,Cuxhaven (oh. C,Nutzfläche des Gebäudes (100 qm),,,804
+2017,Harburg,Nutzfläche des Gebäudes (100 qm),,K0353,1808
+2017,Lüchow-Dannenbe,Nutzfläche des Gebäudes (100 qm),,K0354,275
+2017,Lüneburg,Nutzfläche des Gebäudes (100 qm),,K0355,457
+2017,Lüneburg-Hanses,Nutzfläche des Gebäudes (100 qm),,,175
+2017,Lüneburg (oh. L,Nutzfläche des Gebäudes (100 qm),,,282
+2017,Osterholz,Nutzfläche des Gebäudes (100 qm),,K0356,486
+2017,Rotenburg (Wümm,Nutzfläche des Gebäudes (100 qm),,K0357,1184
+2017,Heidekreis,Nutzfläche des Gebäudes (100 qm),,K0358,471
+2017,Stade,Nutzfläche des Gebäudes (100 qm),,K0359,1350
+2017,Stade-Hansestad,Nutzfläche des Gebäudes (100 qm),,,367
+2017,Stade (oh.Stade,Nutzfläche des Gebäudes (100 qm),,,983
+2017,Uelzen,Nutzfläche des Gebäudes (100 qm),,K0360,362
+2017,Verden,Nutzfläche des Gebäudes (100 qm),,K0361,730
+2017,Weser-Ems,Nutzfläche des Gebäudes (100 qm),,,18270
+2017,Delmenhorst-Sta,Nutzfläche des Gebäudes (100 qm),,K0401,232
+2017,Emden-Stadt,Nutzfläche des Gebäudes (100 qm),,K0402,155
+2017,Oldenburg(Oldb),Nutzfläche des Gebäudes (100 qm),,K0403,481
+2017,Osnabrück-Stadt,Nutzfläche des Gebäudes (100 qm),,K0404,385
+2017,Wilhelmshaven-S,Nutzfläche des Gebäudes (100 qm),,K0405,70
+2017,Ammerland,Nutzfläche des Gebäudes (100 qm),,K0451,1175
+2017,Aurich,Nutzfläche des Gebäudes (100 qm),,K0452,1109
+2017,Cloppenburg,Nutzfläche des Gebäudes (100 qm),,K0453,1582
+2017,Emsland,Nutzfläche des Gebäudes (100 qm),,K0454,4899
+2017,Lingen (Ems)-St,Nutzfläche des Gebäudes (100 qm),,,451
+2017,Emsland (oh. Li,Nutzfläche des Gebäudes (100 qm),,,4449
+2017,Friesland,Nutzfläche des Gebäudes (100 qm),,K0455,621
+2017,Grafschaft Bent,Nutzfläche des Gebäudes (100 qm),,K0456,1373
+2017,Nordhorn-Stadt,Nutzfläche des Gebäudes (100 qm),,,342
+2017,Grfsch.Bentheim,Nutzfläche des Gebäudes (100 qm),,,1030
+2017,Leer,Nutzfläche des Gebäudes (100 qm),,K0457,647
+2017,Oldenburg,Nutzfläche des Gebäudes (100 qm),,K0458,468
+2017,Osnabrück,Nutzfläche des Gebäudes (100 qm),,K0459,2233
+2017,Melle-Stadt,Nutzfläche des Gebäudes (100 qm),,,246
+2017,Osnabrück (oh.M,Nutzfläche des Gebäudes (100 qm),,,1987
+2017,Vechta,Nutzfläche des Gebäudes (100 qm),,K0460,2214
+2017,Wesermarsch,Nutzfläche des Gebäudes (100 qm),,K0461,253
+2017,Wittmund,Nutzfläche des Gebäudes (100 qm),,K0462,373
+2017,Niedersachsen,Baumaßnahmenund neue Gebäude,,,23575
+2017,Braunschweig,Baumaßnahmenund neue Gebäude,,,3495
+2017,Braunschweig-St,Baumaßnahmenund neue Gebäude,,,396
+2017,Salzgitter-Stad,Baumaßnahmenund neue Gebäude,,,123
+2017,Wolfsburg-Stadt,Baumaßnahmenund neue Gebäude,,,309
+2017,Gifhorn,Baumaßnahmenund neue Gebäude,,,788
+2017,Goslar,Baumaßnahmenund neue Gebäude,,,105
+2017,Goslar-Stadt,Baumaßnahmenund neue Gebäude,,,27
+2017,Goslar (oh. Gos,Baumaßnahmenund neue Gebäude,,,78
+2017,Helmstedt,Baumaßnahmenund neue Gebäude,,,245
+2017,Northeim,Baumaßnahmenund neue Gebäude,,,266
+2017,Peine,Baumaßnahmenund neue Gebäude,,,487
+2017,Peine-Stadt,Baumaßnahmenund neue Gebäude,,,105
+2017,Peine (oh. Pein,Baumaßnahmenund neue Gebäude,,,382
+2017,Wolfenbüttel,Baumaßnahmenund neue Gebäude,,,170
+2017,Wolfenbüttel-St,Baumaßnahmenund neue Gebäude,,,56
+2017,Wolfenbüttel (o,Baumaßnahmenund neue Gebäude,,,114
+2017,Göttingen,Baumaßnahmenund neue Gebäude,,,606
+2017,Göttingen-Stadt,Baumaßnahmenund neue Gebäude,,,173
+2017,Göttingen (oh.,Baumaßnahmenund neue Gebäude,,,433
+2017,Hannover,Baumaßnahmenund neue Gebäude,,,3606
+2017,Hannover-Region,Baumaßnahmenund neue Gebäude,,,1711
+2017,Hannover-Landes,Baumaßnahmenund neue Gebäude,,,424
+2017,Garbsen-Stadt,Baumaßnahmenund neue Gebäude,,,63
+2017,Langenhagen-Sta,Baumaßnahmenund neue Gebäude,,,91
+2017,Hann.Reg.(oh.Ha,Baumaßnahmenund neue Gebäude,,,1133
+2017,Diepholz,Baumaßnahmenund neue Gebäude,,,556
+2017,Hameln-Pyrmont,Baumaßnahmenund neue Gebäude,,,153
+2017,Hameln-Stadt,Baumaßnahmenund neue Gebäude,,,64
+2017,Hameln-Pyrmont,Baumaßnahmenund neue Gebäude,,,89
+2017,Hildesheim,Baumaßnahmenund neue Gebäude,,,489
+2017,Hildesheim-Stad,Baumaßnahmenund neue Gebäude,,,144
+2017,Hildesheim(oh.H,Baumaßnahmenund neue Gebäude,,,345
+2017,Holzminden,Baumaßnahmenund neue Gebäude,,,78
+2017,Nienburg (Weser,Baumaßnahmenund neue Gebäude,,,286
+2017,Schaumburg,Baumaßnahmenund neue Gebäude,,,333
+2017,Lüneburg,Baumaßnahmenund neue Gebäude,,,5872
+2017,Celle,Baumaßnahmenund neue Gebäude,,,488
+2017,Celle-Stadt,Baumaßnahmenund neue Gebäude,,,80
+2017,Celle (oh.Celle,Baumaßnahmenund neue Gebäude,,,408
+2017,Cuxhaven,Baumaßnahmenund neue Gebäude,,,740
+2017,Cuxhaven-Stadt,Baumaßnahmenund neue Gebäude,,,106
+2017,Cuxhaven (oh. C,Baumaßnahmenund neue Gebäude,,,634
+2017,Harburg,Baumaßnahmenund neue Gebäude,,,860
+2017,Lüchow-Dannenbe,Baumaßnahmenund neue Gebäude,,,214
+2017,Lüneburg,Baumaßnahmenund neue Gebäude,,,405
+2017,Lüneburg-Hanses,Baumaßnahmenund neue Gebäude,,,59
+2017,Lüneburg (oh. L,Baumaßnahmenund neue Gebäude,,,346
+2017,Osterholz,Baumaßnahmenund neue Gebäude,,,458
+2017,Rotenburg (Wümm,Baumaßnahmenund neue Gebäude,,,704
+2017,Heidekreis,Baumaßnahmenund neue Gebäude,,,470
+2017,Stade,Baumaßnahmenund neue Gebäude,,,852
+2017,Stade-Hansestad,Baumaßnahmenund neue Gebäude,,,93
+2017,Stade (oh.Stade,Baumaßnahmenund neue Gebäude,,,759
+2017,Uelzen,Baumaßnahmenund neue Gebäude,,,200
+2017,Verden,Baumaßnahmenund neue Gebäude,,,481
+2017,Weser-Ems,Baumaßnahmenund neue Gebäude,,,10602
+2017,Delmenhorst-Sta,Baumaßnahmenund neue Gebäude,,,114
+2017,Emden-Stadt,Baumaßnahmenund neue Gebäude,,,75
+2017,Oldenburg(Oldb),Baumaßnahmenund neue Gebäude,,,529
+2017,Osnabrück-Stadt,Baumaßnahmenund neue Gebäude,,,235
+2017,Wilhelmshaven-S,Baumaßnahmenund neue Gebäude,,,96
+2017,Ammerland,Baumaßnahmenund neue Gebäude,,,764
+2017,Aurich,Baumaßnahmenund neue Gebäude,,,700
+2017,Cloppenburg,Baumaßnahmenund neue Gebäude,,,913
+2017,Emsland,Baumaßnahmenund neue Gebäude,,,1980
+2017,Lingen (Ems)-St,Baumaßnahmenund neue Gebäude,,,234
+2017,Emsland (oh. Li,Baumaßnahmenund neue Gebäude,,,1746
+2017,Friesland,Baumaßnahmenund neue Gebäude,,,468
+2017,Grafschaft Bent,Baumaßnahmenund neue Gebäude,,,632
+2017,Nordhorn-Stadt,Baumaßnahmenund neue Gebäude,,,206
+2017,Grfsch.Bentheim,Baumaßnahmenund neue Gebäude,,,426
+2017,Leer,Baumaßnahmenund neue Gebäude,,,696
+2017,Oldenburg,Baumaßnahmenund neue Gebäude,,,494
+2017,Osnabrück,Baumaßnahmenund neue Gebäude,,,1245
+2017,Melle-Stadt,Baumaßnahmenund neue Gebäude,,,199
+2017,Osnabrück (oh.M,Baumaßnahmenund neue Gebäude,,,1046
+2017,Vechta,Baumaßnahmenund neue Gebäude,,,972
+2017,Wesermarsch,Baumaßnahmenund neue Gebäude,,,352
+2017,Wittmund,Baumaßnahmenund neue Gebäude,,,337
+2017,Niedersachsen,,,,31350
+2017,Braunschweig,,,,4840
+2017,Braunschweig-St,,,,570
+2017,Salzgitter-Stad,,,,118
+2017,Wolfsburg-Stadt,,,,847
+2017,Gifhorn,,,,831
+2017,Goslar,,,,92
+2017,Goslar-Stadt,,,,18
+2017,Goslar (oh. Gos,,,,74
+2017,Helmstedt,,,,246
+2017,Northeim,,,,346
+2017,Peine,,,,677
+2017,Peine-Stadt,,,,271
+2017,Peine (oh. Pein,,,,406
+2017,Wolfenbüttel,,,,275
+2017,Wolfenbüttel-St,,,,119
+2017,Wolfenbüttel (o,,,,156
+2017,Göttingen,,,,838
+2017,Göttingen-Stadt,,,,353
+2017,Göttingen (oh.,,,,485
+2017,Hannover,,,,5886
+2017,Hannover-Region,,,,3593
+2017,Hannover-Landes,,,,1394
+2017,Garbsen-Stadt,,,,299
+2017,Langenhagen-Sta,,,,234
+2017,Hann.Reg.(oh.Ha,,,,1666
+2017,Diepholz,,,,750
+2017,Hameln-Pyrmont,,,,141
+2017,Hameln-Stadt,,,,66
+2017,Hameln-Pyrmont,,,,75
+2017,Hildesheim,,,,594
+2017,Hildesheim-Stad,,,,217
+2017,Hildesheim(oh.H,,,,377
+2017,Holzminden,,,,58
+2017,Nienburg (Weser,,,,345
+2017,Schaumburg,,,,405
+2017,Lüneburg,,,,7589
+2017,Celle,,,,654
+2017,Celle-Stadt,,,,145
+2017,Celle (oh.Celle,,,,509
+2017,Cuxhaven,,,,760
+2017,Cuxhaven-Stadt,,,,181
+2017,Cuxhaven (oh. C,,,,579
+2017,Harburg,,,,1475
+2017,Lüchow-Dannenbe,,,,158
+2017,Lüneburg,,,,613
+2017,Lüneburg-Hanses,,,,158
+2017,Lüneburg (oh. L,,,,455
+2017,Osterholz,,,,595
+2017,Rotenburg (Wümm,,,,761
+2017,Heidekreis,,,,545
+2017,Stade,,,,1224
+2017,Stade-Hansestad,,,,178
+2017,Stade (oh.Stade,,,,1046
+2017,Uelzen,,,,217
+2017,Verden,,,,587
+2017,Weser-Ems,,,,13035
+2017,Delmenhorst-Sta,,,,164
+2017,Emden-Stadt,,,,60
+2017,Oldenburg(Oldb),,,,1197
+2017,Osnabrück-Stadt,,,,430
+2017,Wilhelmshaven-S,,,,82
+2017,Ammerland,,,,1017
+2017,Aurich,,,,838
+2017,Cloppenburg,,,,946
+2017,Emsland,,,,2265
+2017,Lingen (Ems)-St,,,,597
+2017,Emsland (oh. Li,,,,1668
+2017,Friesland,,,,606
+2017,Grafschaft Bent,,,,744
+2017,Nordhorn-Stadt,,,,297
+2017,Grfsch.Bentheim,,,,447
+2017,Leer,,,,829
+2017,Oldenburg,,,,543
+2017,Osnabrück,,,,1505
+2017,Melle-Stadt,,,,229
+2017,Osnabrück (oh.M,,,,1276
+2017,Vechta,,,,1124
+2017,Wesermarsch,,,,343
+2017,Wittmund,,,,342
+2017,Niedersachsen,,1_Zimmer,,1107
+2017,Braunschweig,,1_Zimmer,,63
+2017,Braunschweig-St,,1_Zimmer,,6
+2017,Salzgitter-Stad,,1_Zimmer,,0
+2017,Wolfsburg-Stadt,,1_Zimmer,,18
+2017,Gifhorn,,1_Zimmer,,17
+2017,Goslar,,1_Zimmer,,5
+2017,Goslar-Stadt,,1_Zimmer,,0
+2017,Goslar (oh. Gos,,1_Zimmer,,5
+2017,Helmstedt,,1_Zimmer,,1
+2017,Northeim,,1_Zimmer,,9
+2017,Peine,,1_Zimmer,,5
+2017,Peine-Stadt,,1_Zimmer,,4
+2017,Peine (oh. Pein,,1_Zimmer,,1
+2017,Wolfenbüttel,,1_Zimmer,,0
+2017,Wolfenbüttel-St,,1_Zimmer,,1
+2017,Wolfenbüttel (o,,1_Zimmer,,1
+2017,Göttingen,,1_Zimmer,,38
+2017,Göttingen-Stadt,,1_Zimmer,,35
+2017,Göttingen (oh.,,1_Zimmer,,3
+2017,Hannover,,1_Zimmer,,523
+2017,Hannover-Region,,1_Zimmer,,509
+2017,Hannover-Landes,,1_Zimmer,,314
+2017,Garbsen-Stadt,,1_Zimmer,,169
+2017,Langenhagen-Sta,,1_Zimmer,,1
+2017,Hann.Reg.(oh.Ha,,1_Zimmer,,27
+2017,Diepholz,,1_Zimmer,,3
+2017,Hameln-Pyrmont,,1_Zimmer,,0
+2017,Hameln-Stadt,,1_Zimmer,,0
+2017,Hameln-Pyrmont,,1_Zimmer,,0
+2017,Hildesheim,,1_Zimmer,,4
+2017,Hildesheim-Stad,,1_Zimmer,,4
+2017,Hildesheim(oh.H,,1_Zimmer,,0
+2017,Holzminden,,1_Zimmer,,3
+2017,Nienburg (Weser,,1_Zimmer,,4
+2017,Schaumburg,,1_Zimmer,,0
+2017,Lüneburg,,1_Zimmer,,250
+2017,Celle,,1_Zimmer,,7
+2017,Celle-Stadt,,1_Zimmer,,6
+2017,Celle (oh.Celle,,1_Zimmer,,1
+2017,Cuxhaven,,1_Zimmer,,2
+2017,Cuxhaven-Stadt,,1_Zimmer,,1
+2017,Cuxhaven (oh. C,,1_Zimmer,,1
+2017,Harburg,,1_Zimmer,,20
+2017,Lüchow-Dannenbe,,1_Zimmer,,3
+2017,Lüneburg,,1_Zimmer,,101
+2017,Lüneburg-Hanses,,1_Zimmer,,3
+2017,Lüneburg (oh. L,,1_Zimmer,,98
+2017,Osterholz,,1_Zimmer,,8
+2017,Rotenburg (Wümm,,1_Zimmer,,23
+2017,Heidekreis,,1_Zimmer,,34
+2017,Stade,,1_Zimmer,,39
+2017,Stade-Hansestad,,1_Zimmer,,1
+2017,Stade (oh.Stade,,1_Zimmer,,40
+2017,Uelzen,,1_Zimmer,,2
+2017,Verden,,1_Zimmer,,11
+2017,Weser-Ems,,1_Zimmer,,271
+2017,Delmenhorst-Sta,,1_Zimmer,,2
+2017,Emden-Stadt,,1_Zimmer,,2
+2017,Oldenburg(Oldb),,1_Zimmer,,66
+2017,Osnabrück-Stadt,,1_Zimmer,,74
+2017,Wilhelmshaven-S,,1_Zimmer,,1
+2017,Ammerland,,1_Zimmer,,18
+2017,Aurich,,1_Zimmer,,8
+2017,Cloppenburg,,1_Zimmer,,1
+2017,Emsland,,1_Zimmer,,19
+2017,Lingen (Ems)-St,,1_Zimmer,,3
+2017,Emsland (oh. Li,,1_Zimmer,,16
+2017,Friesland,,1_Zimmer,,27
+2017,Grafschaft Bent,,1_Zimmer,,3
+2017,Nordhorn-Stadt,,1_Zimmer,,2
+2017,Grfsch.Bentheim,,1_Zimmer,,1
+2017,Leer,,1_Zimmer,,7
+2017,Oldenburg,,1_Zimmer,,1
+2017,Osnabrück,,1_Zimmer,,28
+2017,Melle-Stadt,,1_Zimmer,,2
+2017,Osnabrück (oh.M,,1_Zimmer,,26
+2017,Vechta,,1_Zimmer,,6
+2017,Wesermarsch,,1_Zimmer,,4
+2017,Wittmund,,1_Zimmer,,4
+2017,Niedersachsen,,2_Zimmer,,4883
+2017,Braunschweig,,2_Zimmer,,713
+2017,Braunschweig-St,,2_Zimmer,,106
+2017,Salzgitter-Stad,,2_Zimmer,,3
+2017,Wolfsburg-Stadt,,2_Zimmer,,139
+2017,Gifhorn,,2_Zimmer,,58
+2017,Goslar,,2_Zimmer,,15
+2017,Goslar-Stadt,,2_Zimmer,,0
+2017,Goslar (oh. Gos,,2_Zimmer,,15
+2017,Helmstedt,,2_Zimmer,,26
+2017,Northeim,,2_Zimmer,,83
+2017,Peine,,2_Zimmer,,61
+2017,Peine-Stadt,,2_Zimmer,,48
+2017,Peine (oh. Pein,,2_Zimmer,,13
+2017,Wolfenbüttel,,2_Zimmer,,88
+2017,Wolfenbüttel-St,,2_Zimmer,,21
+2017,Wolfenbüttel (o,,2_Zimmer,,67
+2017,Göttingen,,2_Zimmer,,134
+2017,Göttingen-Stadt,,2_Zimmer,,92
+2017,Göttingen (oh.,,2_Zimmer,,42
+2017,Hannover,,2_Zimmer,,976
+2017,Hannover-Region,,2_Zimmer,,696
+2017,Hannover-Landes,,2_Zimmer,,319
+2017,Garbsen-Stadt,,2_Zimmer,,18
+2017,Langenhagen-Sta,,2_Zimmer,,70
+2017,Hann.Reg.(oh.Ha,,2_Zimmer,,289
+2017,Diepholz,,2_Zimmer,,90
+2017,Hameln-Pyrmont,,2_Zimmer,,11
+2017,Hameln-Stadt,,2_Zimmer,,9
+2017,Hameln-Pyrmont,,2_Zimmer,,2
+2017,Hildesheim,,2_Zimmer,,95
+2017,Hildesheim-Stad,,2_Zimmer,,50
+2017,Hildesheim(oh.H,,2_Zimmer,,45
+2017,Holzminden,,2_Zimmer,,18
+2017,Nienburg (Weser,,2_Zimmer,,26
+2017,Schaumburg,,2_Zimmer,,40
+2017,Lüneburg,,2_Zimmer,,1146
+2017,Celle,,2_Zimmer,,60
+2017,Celle-Stadt,,2_Zimmer,,15
+2017,Celle (oh.Celle,,2_Zimmer,,45
+2017,Cuxhaven,,2_Zimmer,,71
+2017,Cuxhaven-Stadt,,2_Zimmer,,34
+2017,Cuxhaven (oh. C,,2_Zimmer,,37
+2017,Harburg,,2_Zimmer,,366
+2017,Lüchow-Dannenbe,,2_Zimmer,,25
+2017,Lüneburg,,2_Zimmer,,59
+2017,Lüneburg-Hanses,,2_Zimmer,,33
+2017,Lüneburg (oh. L,,2_Zimmer,,26
+2017,Osterholz,,2_Zimmer,,71
+2017,Rotenburg (Wümm,,2_Zimmer,,75
+2017,Heidekreis,,2_Zimmer,,104
+2017,Stade,,2_Zimmer,,239
+2017,Stade-Hansestad,,2_Zimmer,,68
+2017,Stade (oh.Stade,,2_Zimmer,,171
+2017,Uelzen,,2_Zimmer,,17
+2017,Verden,,2_Zimmer,,59
+2017,Weser-Ems,,2_Zimmer,,2048
+2017,Delmenhorst-Sta,,2_Zimmer,,19
+2017,Emden-Stadt,,2_Zimmer,,2
+2017,Oldenburg(Oldb),,2_Zimmer,,313
+2017,Osnabrück-Stadt,,2_Zimmer,,74
+2017,Wilhelmshaven-S,,2_Zimmer,,17
+2017,Ammerland,,2_Zimmer,,220
+2017,Aurich,,2_Zimmer,,183
+2017,Cloppenburg,,2_Zimmer,,89
+2017,Emsland,,2_Zimmer,,344
+2017,Lingen (Ems)-St,,2_Zimmer,,158
+2017,Emsland (oh. Li,,2_Zimmer,,186
+2017,Friesland,,2_Zimmer,,170
+2017,Grafschaft Bent,,2_Zimmer,,128
+2017,Nordhorn-Stadt,,2_Zimmer,,77
+2017,Grfsch.Bentheim,,2_Zimmer,,51
+2017,Leer,,2_Zimmer,,76
+2017,Oldenburg,,2_Zimmer,,43
+2017,Osnabrück,,2_Zimmer,,184
+2017,Melle-Stadt,,2_Zimmer,,36
+2017,Osnabrück (oh.M,,2_Zimmer,,148
+2017,Vechta,,2_Zimmer,,108
+2017,Wesermarsch,,2_Zimmer,,24
+2017,Wittmund,,2_Zimmer,,54
+2017,Niedersachsen,,3_Zimmer,,7144
+2017,Braunschweig,,3_Zimmer,,1051
+2017,Braunschweig-St,,3_Zimmer,,154
+2017,Salzgitter-Stad,,3_Zimmer,,20
+2017,Wolfsburg-Stadt,,3_Zimmer,,287
+2017,Gifhorn,,3_Zimmer,,113
+2017,Goslar,,3_Zimmer,,11
+2017,Goslar-Stadt,,3_Zimmer,,1
+2017,Goslar (oh. Gos,,3_Zimmer,,12
+2017,Helmstedt,,3_Zimmer,,23
+2017,Northeim,,3_Zimmer,,50
+2017,Peine,,3_Zimmer,,123
+2017,Peine-Stadt,,3_Zimmer,,67
+2017,Peine (oh. Pein,,3_Zimmer,,56
+2017,Wolfenbüttel,,3_Zimmer,,61
+2017,Wolfenbüttel-St,,3_Zimmer,,48
+2017,Wolfenbüttel (o,,3_Zimmer,,13
+2017,Göttingen,,3_Zimmer,,209
+2017,Göttingen-Stadt,,3_Zimmer,,103
+2017,Göttingen (oh.,,3_Zimmer,,106
+2017,Hannover,,3_Zimmer,,1240
+2017,Hannover-Region,,3_Zimmer,,811
+2017,Hannover-Landes,,3_Zimmer,,297
+2017,Garbsen-Stadt,,3_Zimmer,,44
+2017,Langenhagen-Sta,,3_Zimmer,,88
+2017,Hann.Reg.(oh.Ha,,3_Zimmer,,382
+2017,Diepholz,,3_Zimmer,,202
+2017,Hameln-Pyrmont,,3_Zimmer,,18
+2017,Hameln-Stadt,,3_Zimmer,,18
+2017,Hameln-Pyrmont,,3_Zimmer,,0
+2017,Hildesheim,,3_Zimmer,,71
+2017,Hildesheim-Stad,,3_Zimmer,,38
+2017,Hildesheim(oh.H,,3_Zimmer,,33
+2017,Holzminden,,3_Zimmer,,3
+2017,Nienburg (Weser,,3_Zimmer,,66
+2017,Schaumburg,,3_Zimmer,,69
+2017,Lüneburg,,3_Zimmer,,1781
+2017,Celle,,3_Zimmer,,146
+2017,Celle-Stadt,,3_Zimmer,,47
+2017,Celle (oh.Celle,,3_Zimmer,,99
+2017,Cuxhaven,,3_Zimmer,,146
+2017,Cuxhaven-Stadt,,3_Zimmer,,60
+2017,Cuxhaven (oh. C,,3_Zimmer,,86
+2017,Harburg,,3_Zimmer,,444
+2017,Lüchow-Dannenbe,,3_Zimmer,,40
+2017,Lüneburg,,3_Zimmer,,122
+2017,Lüneburg-Hanses,,3_Zimmer,,65
+2017,Lüneburg (oh. L,,3_Zimmer,,57
+2017,Osterholz,,3_Zimmer,,94
+2017,Rotenburg (Wümm,,3_Zimmer,,147
+2017,Heidekreis,,3_Zimmer,,137
+2017,Stade,,3_Zimmer,,262
+2017,Stade-Hansestad,,3_Zimmer,,52
+2017,Stade (oh.Stade,,3_Zimmer,,210
+2017,Uelzen,,3_Zimmer,,70
+2017,Verden,,3_Zimmer,,173
+2017,Weser-Ems,,3_Zimmer,,3072
+2017,Delmenhorst-Sta,,3_Zimmer,,51
+2017,Emden-Stadt,,3_Zimmer,,13
+2017,Oldenburg(Oldb),,3_Zimmer,,321
+2017,Osnabrück-Stadt,,3_Zimmer,,122
+2017,Wilhelmshaven-S,,3_Zimmer,,13
+2017,Ammerland,,3_Zimmer,,232
+2017,Aurich,,3_Zimmer,,213
+2017,Cloppenburg,,3_Zimmer,,205
+2017,Emsland,,3_Zimmer,,532
+2017,Lingen (Ems)-St,,3_Zimmer,,198
+2017,Emsland (oh. Li,,3_Zimmer,,334
+2017,Friesland,,3_Zimmer,,118
+2017,Grafschaft Bent,,3_Zimmer,,124
+2017,Nordhorn-Stadt,,3_Zimmer,,48
+2017,Grfsch.Bentheim,,3_Zimmer,,76
+2017,Leer,,3_Zimmer,,271
+2017,Oldenburg,,3_Zimmer,,104
+2017,Osnabrück,,3_Zimmer,,340
+2017,Melle-Stadt,,3_Zimmer,,33
+2017,Osnabrück (oh.M,,3_Zimmer,,307
+2017,Vechta,,3_Zimmer,,216
+2017,Wesermarsch,,3_Zimmer,,113
+2017,Wittmund,,3_Zimmer,,84
