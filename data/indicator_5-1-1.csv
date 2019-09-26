@@ -1,1196 +1,244 @@
 Year,Gebietseinheit,Statistik,GeoCode,Value
 2017,Niedersachsen,Baumaßnahmen und neue Gebäude,K00,23575
 2017,Braunschweig,Baumaßnahmen und neue Gebäude,K01,3495
-2017,Braunschweig St,Baumaß
-nahmen
-und
-neue
-Gebäude,K0101,396
-2017,Salzgitter Stad,Baumaß
-nahmen
-und
-neue
-Gebäude,K0102,123
-2017,Wolfsburg Stadt,Baumaß
-nahmen
-und
-neue
-Gebäude,K0103,309
-2017,Gifhorn,Baumaß
-nahmen
-und
-neue
-Gebäude,K0151,788
-2017,Goslar,Baumaß
-nahmen
-und
-neue
-Gebäude,K0153,105
-2017,Goslar Stadt,Baumaß
-nahmen
-und
-neue
-Gebäude,K0153017,27
-2017,Goslar (oh. Gos,Baumaß
-nahmen
-und
-neue
-Gebäude,K0153900,78
-2017,Helmstedt,Baumaß
-nahmen
-und
-neue
-Gebäude,K0154,245
-2017,Northeim,Baumaß
-nahmen
-und
-neue
-Gebäude,K0155,266
-2017,Peine,Baumaß
-nahmen
-und
-neue
-Gebäude,K0157,487
-2017,Peine Stadt,Baumaß
-nahmen
-und
-neue
-Gebäude,K0157006,105
-2017,Peine (oh. Pein,Baumaß
-nahmen
-und
-neue
-Gebäude,K0157900,382
-2017,Wolfenbüttel,Baumaß
-nahmen
-und
-neue
-Gebäude,K0158,170
-2017,Wolfenbüttel St,Baumaß
-nahmen
-und
-neue
-Gebäude,K0158037,56
-2017,Wolfenbüttel (o,Baumaß
-nahmen
-und
-neue
-Gebäude,K0158900,114
-2017,Göttingen,Baumaß
-nahmen
-und
-neue
-Gebäude,K0159,606
-2017,Göttingen Stadt,Baumaß
-nahmen
-und
-neue
-Gebäude,K0159016,173
-2017,Göttingen (oh.,Baumaß
-nahmen
-und
-neue
-Gebäude,K0159900,433
-2017,Hannover,Baumaß
-nahmen
-und
-neue
-Gebäude,K02,3606
-2017,Hannover Region,Baumaß
-nahmen
-und
-neue
-Gebäude,K0241,1711
-2017,Hannover Landes,Baumaß
-nahmen
-und
-neue
-Gebäude,K0241001,424
-2017,Garbsen Stadt,Baumaß
-nahmen
-und
-neue
-Gebäude,K0241005,63
-2017,Langenhagen Sta,Baumaß
-nahmen
-und
-neue
-Gebäude,K0241010,91
-2017,Hann.Reg.(oh.Ha,Baumaß
-nahmen
-und
-neue
-Gebäude,K0241900,1133
-2017,Diepholz,Baumaß
-nahmen
-und
-neue
-Gebäude,K0251,556
-2017,HamelnPyrmont,Baumaß
-nahmen
-und
-neue
-Gebäude,K0252,153
-2017,Hameln Stadt,Baumaß
-nahmen
-und
-neue
-Gebäude,K0252006,64
-2017,HamelnPyrmont,Baumaß
-nahmen
-und
-neue
-Gebäude,K0252900,89
-2017,Hildesheim,Baumaß
-nahmen
-und
-neue
-Gebäude,K0254,489
-2017,Hildesheim Stad,Baumaß
-nahmen
-und
-neue
-Gebäude,K0254021,144
-2017,Hildesheim(oh.H,Baumaß
-nahmen
-und
-neue
-Gebäude,K0254900,345
-2017,Holzminden,Baumaß
-nahmen
-und
-neue
-Gebäude,K0255,78
-2017,Nienburg (Weser,Baumaß
-nahmen
-und
-neue
-Gebäude,K0256,286
-2017,Schaumburg,Baumaß
-nahmen
-und
-neue
-Gebäude,K0257,333
-2017,Lüneburg,Baumaß
-nahmen
-und
-neue
-Gebäude,K03,5872
-2017,Celle,Baumaß
-nahmen
-und
-neue
-Gebäude,K0351,488
-2017,Celle Stadt,Baumaß
-nahmen
-und
-neue
-Gebäude,K0351006,80
-2017,Celle (oh.Celle,Baumaß
-nahmen
-und
-neue
-Gebäude,K0351900,408
-2017,Cuxhaven,Baumaß
-nahmen
-und
-neue
-Gebäude,K0352,740
-2017,Cuxhaven Stadt,Baumaß
-nahmen
-und
-neue
-Gebäude,K0352011,106
-2017,Cuxhaven (oh. C,Baumaß
-nahmen
-und
-neue
-Gebäude,K0352900,634
-2017,Harburg,Baumaß
-nahmen
-und
-neue
-Gebäude,K0353,860
-2017,LüchowDannenbe,Baumaß
-nahmen
-und
-neue
-Gebäude,K0354,214
-2017,Lüneburg,Baumaß
-nahmen
-und
-neue
-Gebäude,K0355,405
-2017,Lüneburg Hanses,Baumaß
-nahmen
-und
-neue
-Gebäude,K0355022,59
-2017,Lüneburg (oh. L,Baumaß
-nahmen
-und
-neue
-Gebäude,K0355900,346
-2017,Osterholz,Baumaß
-nahmen
-und
-neue
-Gebäude,K0356,458
-2017,Rotenburg (Wümm,Baumaß
-nahmen
-und
-neue
-Gebäude,K0357,704
-2017,Heidekreis,Baumaß
-nahmen
-und
-neue
-Gebäude,K0358,470
-2017,Stade,Baumaß
-nahmen
-und
-neue
-Gebäude,K0359,852
-2017,Stade Hansestad,Baumaß
-nahmen
-und
-neue
-Gebäude,K0359038,93
-2017,Stade (oh.Stade,Baumaß
-nahmen
-und
-neue
-Gebäude,K0359900,759
-2017,Uelzen,Baumaß
-nahmen
-und
-neue
-Gebäude,K0360,200
-2017,Verden,Baumaß
-nahmen
-und
-neue
-Gebäude,K0361,481
-2017,WeserEms,Baumaß
-nahmen
-und
-neue
-Gebäude,K04,10602
-2017,Delmenhorst Sta,Baumaß
-nahmen
-und
-neue
-Gebäude,K0401,114
-2017,Emden Stadt,Baumaß
-nahmen
-und
-neue
-Gebäude,K0402,75
-2017,Oldenburg(Oldb),Baumaß
-nahmen
-und
-neue
-Gebäude,K0403,529
-2017,Osnabrück Stadt,Baumaß
-nahmen
-und
-neue
-Gebäude,K0404,235
-2017,Wilhelmshaven S,Baumaß
-nahmen
-und
-neue
-Gebäude,K0405,96
-2017,Ammerland,Baumaß
-nahmen
-und
-neue
-Gebäude,K0451,764
-2017,Aurich,Baumaß
-nahmen
-und
-neue
-Gebäude,K0452,700
-2017,Cloppenburg,Baumaß
-nahmen
-und
-neue
-Gebäude,K0453,913
-2017,Emsland,Baumaß
-nahmen
-und
-neue
-Gebäude,K0454,1980
-2017,Lingen (Ems) St,Baumaß
-nahmen
-und
-neue
-Gebäude,K0454032,234
-2017,Emsland (oh. Li,Baumaß
-nahmen
-und
-neue
-Gebäude,K0454900,1746
-2017,Friesland,Baumaß
-nahmen
-und
-neue
-Gebäude,K0455,468
-2017,Grafschaft Bent,Baumaß
-nahmen
-und
-neue
-Gebäude,K0456,632
-2017,Nordhorn Stadt,Baumaß
-nahmen
-und
-neue
-Gebäude,K0456015,206
-2017,Grfsch.Bentheim,Baumaß
-nahmen
-und
-neue
-Gebäude,K0456900,426
-2017,Leer,Baumaß
-nahmen
-und
-neue
-Gebäude,K0457,696
-2017,Oldenburg,Baumaß
-nahmen
-und
-neue
-Gebäude,K0458,494
-2017,Osnabrück,Baumaß
-nahmen
-und
-neue
-Gebäude,K0459,1245
-2017,Melle Stadt,Baumaß
-nahmen
-und
-neue
-Gebäude,K0459024,199
-2017,Osnabrück (oh.M,Baumaß
-nahmen
-und
-neue
-Gebäude,K0459900,1046
-2017,Vechta,Baumaß
-nahmen
-und
-neue
-Gebäude,K0460,972
-2017,Wesermarsch,Baumaß
-nahmen
-und
-neue
-Gebäude,K0461,352
-2017,Wittmund,Baumaß
-nahmen
-und
-neue
-Gebäude,K0462,337
-2017,Niedersachsen,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K00,42388
-2017,Braunschweig,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K01,8803
-2017,Braunschweig St,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0101,1085
-2017,Salzgitter Stad,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0102,266
-2017,Wolfsburg Stadt,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0103,1303
-2017,Gifhorn,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0151,1288
-2017,Goslar,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0153,188
-2017,Goslar Stadt,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0153017,44
-2017,Goslar (oh. Gos,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0153900,144
-2017,Helmstedt,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0154,197
-2017,Northeim,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0155,503
-2017,Peine,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0157,1302
-2017,Peine Stadt,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0157006,1104
-2017,Peine (oh. Pein,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0157900,198
-2017,Wolfenbüttel,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0158,87
-2017,Wolfenbüttel St,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0158037,39
-2017,Wolfenbüttel (o,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0158900,49
-2017,Göttingen,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0159,2585
-2017,Göttingen Stadt,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0159016,1526
-2017,Göttingen (oh.,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0159900,1058
-2017,Hannover,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K02,6894
-2017,Hannover Region,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0241,4046
-2017,Hannover Landes,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0241001,1018
-2017,Garbsen Stadt,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0241005,436
-2017,Langenhagen Sta,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0241010,869
-2017,Hann.Reg.(oh.Ha,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0241900,1723
-2017,Diepholz,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0251,744
-2017,HamelnPyrmont,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0252,168
-2017,Hameln Stadt,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0252006,133
-2017,HamelnPyrmont,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0252900,35
-2017,Hildesheim,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0254,942
-2017,Hildesheim Stad,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0254021,508
-2017,Hildesheim(oh.H,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0254900,434
-2017,Holzminden,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0255,184
-2017,Nienburg (Weser,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0256,383
-2017,Schaumburg,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0257,426
-2017,Lüneburg,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K03,8421
-2017,Celle,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0351,325
-2017,Celle Stadt,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0351006,146
-2017,Celle (oh.Celle,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0351900,178
-2017,Cuxhaven,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0352,974
-2017,Cuxhaven Stadt,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0352011,170
-2017,Cuxhaven (oh. C,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0352900,804
-2017,Harburg,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0353,1808
-2017,LüchowDannenbe,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0354,275
-2017,Lüneburg,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0355,457
-2017,Lüneburg Hanses,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0355022,175
-2017,Lüneburg (oh. L,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0355900,282
-2017,Osterholz,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0356,486
-2017,Rotenburg (Wümm,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0357,1184
-2017,Heidekreis,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0358,471
-2017,Stade,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0359,1350
-2017,Stade Hansestad,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0359038,367
-2017,Stade (oh.Stade,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0359900,983
-2017,Uelzen,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0360,362
-2017,Verden,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0361,730
-2017,WeserEms,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K04,18270
-2017,Delmenhorst Sta,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0401,232
-2017,Emden Stadt,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0402,155
-2017,Oldenburg(Oldb),Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0403,481
-2017,Osnabrück Stadt,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0404,385
-2017,Wilhelmshaven S,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0405,70
-2017,Ammerland,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0451,1175
-2017,Aurich,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0452,1109
-2017,Cloppenburg,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0453,1582
-2017,Emsland,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0454,4899
-2017,Lingen (Ems) St,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0454032,451
-2017,Emsland (oh. Li,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0454900,4449
-2017,Friesland,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0455,621
-2017,Grafschaft Bent,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0456,1373
-2017,Nordhorn Stadt,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0456015,342
-2017,Grfsch.Bentheim,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0456900,1030
-2017,Leer,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0457,647
-2017,Oldenburg,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0458,468
-2017,Osnabrück,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0459,2233
-2017,Melle Stadt,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0459024,246
-2017,Osnabrück (oh.M,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0459900,1987
-2017,Vechta,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0460,2214
-2017,Wesermarsch,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0461,253
-2017,Wittmund,Nutz
-fläche
-des
-Gebäudes
-(100 qm),K0462,373
-2017,Niedersachsen,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K00,7573199
-2017,Braunschweig,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K01,1413268
-2017,Braunschweig St,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0101,172373
-2017,Salzgitter Stad,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0102,49781
-2017,Wolfsburg Stadt,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0103,269532
-2017,Gifhorn,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0151,220872
-2017,Goslar,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0153,26273
-2017,Goslar Stadt,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0153017,5679
-2017,Goslar (oh. Gos,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0153900,20594
-2017,Helmstedt,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0154,63215
-2017,Northeim,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0155,102249
-2017,Peine,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0157,177503
-2017,Peine Stadt,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0157006,91534
-2017,Peine (oh. Pein,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0157900,85969
-2017,Wolfenbüttel,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0158,41277
-2017,Wolfenbüttel St,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0158037,18757
-2017,Wolfenbüttel (o,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0158900,22520
-2017,Göttingen,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0159,290193
-2017,Göttingen Stadt,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0159016,147333
-2017,Göttingen (oh.,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0159900,142860
-2017,Hannover,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K02,1423264
-2017,Hannover Region,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0241,907109
-2017,Hannover Landes,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0241001,330682
-2017,Garbsen Stadt,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0241005,79864
-2017,Langenhagen Sta,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0241010,77303
-2017,Hann.Reg.(oh.Ha,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0241900,419260
-2017,Diepholz,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0251,127398
-2017,HamelnPyrmont,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0252,40764
-2017,Hameln Stadt,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0252006,23006
-2017,HamelnPyrmont,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0252900,17758
-2017,Hildesheim,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0254,175090
-2017,Hildesheim Stad,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0254021,77913
-2017,Hildesheim(oh.H,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0254900,97177
-2017,Holzminden,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0255,19594
-2017,Nienburg (Weser,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0256,69616
-2017,Schaumburg,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0257,83693
-2017,Lüneburg,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K03,1739337
-2017,Celle,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0351,126552
-2017,Celle Stadt,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0351006,32566
-2017,Celle (oh.Celle,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0351900,93986
-2017,Cuxhaven,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0352,188592
-2017,Cuxhaven Stadt,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0352011,37700
-2017,Cuxhaven (oh. C,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0352900,150892
-2017,Harburg,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0353,405560
-2017,LüchowDannenbe,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0354,41491
-2017,Lüneburg,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0355,128125
-2017,Lüneburg Hanses,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0355022,42847
-2017,Lüneburg (oh. L,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0355900,85278
-2017,Osterholz,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0356,114621
-2017,Rotenburg (Wümm,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0357,170171
-2017,Heidekreis,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0358,107920
-2017,Stade,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0359,252937
-2017,Stade Hansestad,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0359038,44064
-2017,Stade (oh.Stade,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0359900,208873
-2017,Uelzen,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0360,73112
-2017,Verden,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0361,130256
-2017,WeserEms,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K04,2997330
-2017,Delmenhorst Sta,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0401,40399
-2017,Emden Stadt,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0402,19955
-2017,Oldenburg(Oldb),Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0403,200193
-2017,Osnabrück Stadt,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0404,85119
-2017,Wilhelmshaven S,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0405,19085
-2017,Ammerland,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0451,233310
-2017,Aurich,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0452,148157
-2017,Cloppenburg,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0453,223328
-2017,Emsland,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0454,611555
-2017,Lingen (Ems) St,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0454032,102521
-2017,Emsland (oh. Li,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0454900,509034
-2017,Friesland,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0455,114599
-2017,Grafschaft Bent,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0456,175959
-2017,Nordhorn Stadt,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0456015,57121
-2017,Grfsch.Bentheim,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0456900,118838
-2017,Leer,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0457,145807
-2017,Oldenburg,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0458,116542
-2017,Osnabrück,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0459,392290
-2017,Melle Stadt,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0459024,64241
-2017,Osnabrück (oh.M,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0459900,328049
-2017,Vechta,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0460,345546
-2017,Wesermarsch,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0461,62519
-2017,Wittmund,Veranschl.
-Kosten
-des
-Bauwerkes
-(1000 Euro),K0462,62967
+2017,Braunschweig,St,Baumaßnahmen und neue Gebäude,K0101,396
+2017,Salzgitter,Stad,Baumaßnahmen und neue Gebäude,K0102,123
+2017,Wolfsburg,Stadt,Baumaßnahmen und neue Gebäude,K0103,309
+2017,Gifhorn,Baumaßnahmen und neue Gebäude,K0151,788
+2017,Goslar,Baumaßnahmen und neue Gebäude,K0153,105
+2017,Goslar,Stadt,Baumaßnahmen und neue Gebäude,K0153017,27
+2017,Goslar (oh. Gos,Baumaßnahmen und neue Gebäude,K0153900,78
+2017,Helmstedt,Baumaßnahmen und neue Gebäude,K0154,245
+2017,Northeim,Baumaßnahmen und neue Gebäude,K0155,266
+2017,Peine,Baumaßnahmen und neue Gebäude,K0157,487
+2017,Peine,Stadt,Baumaßnahmen und neue Gebäude,K0157006,105
+2017,Peine (oh. Pein,Baumaßnahmen und neue Gebäude,K0157900,382
+2017,Wolfenbüttel,Baumaßnahmen und neue Gebäude,K0158,170
+2017,Wolfenbüttel,St,Baumaßnahmen und neue Gebäude,K0158037,56
+2017,Wolfenbüttel (o,Baumaßnahmen und neue Gebäude,K0158900,114
+2017,Göttingen,Baumaßnahmen und neue Gebäude,K0159,606
+2017,Göttingen,Stadt,Baumaßnahmen und neue Gebäude,K0159016,173
+2017,Göttingen (oh.,Baumaßnahmen und neue Gebäude,K0159900,433
+2017,Hannover,Baumaßnahmen und neue Gebäude,K02,3606
+2017,Hannover,Region,Baumaßnahmen und neue Gebäude,K0241,1711
+2017,Hannover,Landes,Baumaßnahmen und neue Gebäude,K0241001,424
+2017,Garbsen,Stadt,Baumaßnahmen und neue Gebäude,K0241005,63
+2017,Langenhagen,Sta,Baumaßnahmen und neue Gebäude,K0241010,91
+2017,Hann.Reg.(oh.Ha,Baumaßnahmen und neue Gebäude,K0241900,1133
+2017,Diepholz,Baumaßnahmen und neue Gebäude,K0251,556
+2017,Hameln-Pyrmont,Baumaßnahmen und neue Gebäude,K0252,153
+2017,Hameln,Stadt,Baumaßnahmen und neue Gebäude,K0252006,64
+2017,Hameln-Pyrmont,Baumaßnahmen und neue Gebäude,K0252900,89
+2017,Hildesheim,Baumaßnahmen und neue Gebäude,K0254,489
+2017,Hildesheim,Stad,Baumaßnahmen und neue Gebäude,K0254021,144
+2017,Hildesheim(oh.H,Baumaßnahmen und neue Gebäude,K0254900,345
+2017,Holzminden,Baumaßnahmen und neue Gebäude,K0255,78
+2017,Nienburg (Weser,Baumaßnahmen und neue Gebäude,K0256,286
+2017,Schaumburg,Baumaßnahmen und neue Gebäude,K0257,333
+2017,Lüneburg,Baumaßnahmen und neue Gebäude,K03,5872
+2017,Celle,Baumaßnahmen und neue Gebäude,K0351,488
+2017,Celle,Stadt,Baumaßnahmen und neue Gebäude,K0351006,80
+2017,Celle (oh.Celle,Baumaßnahmen und neue Gebäude,K0351900,408
+2017,Cuxhaven,Baumaßnahmen und neue Gebäude,K0352,740
+2017,Cuxhaven,Stadt,Baumaßnahmen und neue Gebäude,K0352011,106
+2017,Cuxhaven (oh. C,Baumaßnahmen und neue Gebäude,K0352900,634
+2017,Harburg,Baumaßnahmen und neue Gebäude,K0353,860
+2017,Lüchow-Dannenbe,Baumaßnahmen und neue Gebäude,K0354,214
+2017,Lüneburg,Baumaßnahmen und neue Gebäude,K0355,405
+2017,Lüneburg,Hanses,Baumaßnahmen und neue Gebäude,K0355022,59
+2017,Lüneburg (oh. L,Baumaßnahmen und neue Gebäude,K0355900,346
+2017,Osterholz,Baumaßnahmen und neue Gebäude,K0356,458
+2017,Rotenburg (Wümm,Baumaßnahmen und neue Gebäude,K0357,704
+2017,Heidekreis,Baumaßnahmen und neue Gebäude,K0358,470
+2017,Stade,Baumaßnahmen und neue Gebäude,K0359,852
+2017,Stade,Hansestad,Baumaßnahmen und neue Gebäude,K0359038,93
+2017,Stade (oh.Stade,Baumaßnahmen und neue Gebäude,K0359900,759
+2017,Uelzen,Baumaßnahmen und neue Gebäude,K0360,200
+2017,Verden,Baumaßnahmen und neue Gebäude,K0361,481
+2017,Weser-Ems,Baumaßnahmen und neue Gebäude,K04,10602
+2017,Delmenhorst,Sta,Baumaßnahmen und neue Gebäude,K0401,114
+2017,Emden,Stadt,Baumaßnahmen und neue Gebäude,K0402,75
+2017,Oldenburg(Oldb),Baumaßnahmen und neue Gebäude,K0403,529
+2017,Osnabrück,Stadt,Baumaßnahmen und neue Gebäude,K0404,235
+2017,Wilhelmshaven,S,Baumaßnahmen und neue Gebäude,K0405,96
+2017,Ammerland,Baumaßnahmen und neue Gebäude,K0451,764
+2017,Aurich,Baumaßnahmen und neue Gebäude,K0452,700
+2017,Cloppenburg,Baumaßnahmen und neue Gebäude,K0453,913
+2017,Emsland,Baumaßnahmen und neue Gebäude,K0454,1980
+2017,Lingen (Ems),St,Baumaßnahmen und neue Gebäude,K0454032,234
+2017,Emsland (oh. Li,Baumaßnahmen und neue Gebäude,K0454900,1746
+2017,Friesland,Baumaßnahmen und neue Gebäude,K0455,468
+2017,Grafschaft Bent,Baumaßnahmen und neue Gebäude,K0456,632
+2017,Nordhorn,Stadt,Baumaßnahmen und neue Gebäude,K0456015,206
+2017,Grfsch.Bentheim,Baumaßnahmen und neue Gebäude,K0456900,426
+2017,Leer,Baumaßnahmen und neue Gebäude,K0457,696
+2017,Oldenburg,Baumaßnahmen und neue Gebäude,K0458,494
+2017,Osnabrück,Baumaßnahmen und neue Gebäude,K0459,1245
+2017,Melle,Stadt,Baumaßnahmen und neue Gebäude,K0459024,199
+2017,Osnabrück (oh.M,Baumaßnahmen und neue Gebäude,K0459900,1046
+2017,Vechta,Baumaßnahmen und neue Gebäude,K0460,972
+2017,Wesermarsch,Baumaßnahmen und neue Gebäude,K0461,352
+2017,Wittmund,Baumaßnahmen und neue Gebäude,K0462,337
+2017,Niedersachsen,Nutzfläche des Gebäudes (100 qm),K00,42388
+2017,Braunschweig,Nutzfläche des Gebäudes (100 qm),K01,8803
+2017,Braunschweig,St,Nutzfläche des Gebäudes (100 qm),K0101,1085
+2017,Salzgitter,Stad,Nutzfläche des Gebäudes (100 qm),K0102,266
+2017,Wolfsburg,Stadt,Nutzfläche des Gebäudes (100 qm),K0103,1303
+2017,Gifhorn,Nutzfläche des Gebäudes (100 qm),K0151,1288
+2017,Goslar,Nutzfläche des Gebäudes (100 qm),K0153,188
+2017,Goslar,Stadt,Nutzfläche des Gebäudes (100 qm),K0153017,44
+2017,Goslar (oh. Gos,Nutzfläche des Gebäudes (100 qm),K0153900,144
+2017,Helmstedt,Nutzfläche des Gebäudes (100 qm),K0154,197
+2017,Northeim,Nutzfläche des Gebäudes (100 qm),K0155,503
+2017,Peine,Nutzfläche des Gebäudes (100 qm),K0157,1302
+2017,Peine,Stadt,Nutzfläche des Gebäudes (100 qm),K0157006,1104
+2017,Peine (oh. Pein,Nutzfläche des Gebäudes (100 qm),K0157900,198
+2017,Wolfenbüttel,Nutzfläche des Gebäudes (100 qm),K0158,87
+2017,Wolfenbüttel,St,Nutzfläche des Gebäudes (100 qm),K0158037,39
+2017,Wolfenbüttel (o,Nutzfläche des Gebäudes (100 qm),K0158900,49
+2017,Göttingen,Nutzfläche des Gebäudes (100 qm),K0159,2585
+2017,Göttingen,Stadt,Nutzfläche des Gebäudes (100 qm),K0159016,1526
+2017,Göttingen (oh.,Nutzfläche des Gebäudes (100 qm),K0159900,1058
+2017,Hannover,Nutzfläche des Gebäudes (100 qm),K02,6894
+2017,Hannover,Region,Nutzfläche des Gebäudes (100 qm),K0241,4046
+2017,Hannover,Landes,Nutzfläche des Gebäudes (100 qm),K0241001,1018
+2017,Garbsen,Stadt,Nutzfläche des Gebäudes (100 qm),K0241005,436
+2017,Langenhagen,Sta,Nutzfläche des Gebäudes (100 qm),K0241010,869
+2017,Hann.Reg.(oh.Ha,Nutzfläche des Gebäudes (100 qm),K0241900,1723
+2017,Diepholz,Nutzfläche des Gebäudes (100 qm),K0251,744
+2017,Hameln-Pyrmont,Nutzfläche des Gebäudes (100 qm),K0252,168
+2017,Hameln,Stadt,Nutzfläche des Gebäudes (100 qm),K0252006,133
+2017,Hameln-Pyrmont,Nutzfläche des Gebäudes (100 qm),K0252900,35
+2017,Hildesheim,Nutzfläche des Gebäudes (100 qm),K0254,942
+2017,Hildesheim,Stad,Nutzfläche des Gebäudes (100 qm),K0254021,508
+2017,Hildesheim(oh.H,Nutzfläche des Gebäudes (100 qm),K0254900,434
+2017,Holzminden,Nutzfläche des Gebäudes (100 qm),K0255,184
+2017,Nienburg (Weser,Nutzfläche des Gebäudes (100 qm),K0256,383
+2017,Schaumburg,Nutzfläche des Gebäudes (100 qm),K0257,426
+2017,Lüneburg,Nutzfläche des Gebäudes (100 qm),K03,8421
+2017,Celle,Nutzfläche des Gebäudes (100 qm),K0351,325
+2017,Celle,Stadt,Nutzfläche des Gebäudes (100 qm),K0351006,146
+2017,Celle (oh.Celle,Nutzfläche des Gebäudes (100 qm),K0351900,178
+2017,Cuxhaven,Nutzfläche des Gebäudes (100 qm),K0352,974
+2017,Cuxhaven,Stadt,Nutzfläche des Gebäudes (100 qm),K0352011,170
+2017,Cuxhaven (oh. C,Nutzfläche des Gebäudes (100 qm),K0352900,804
+2017,Harburg,Nutzfläche des Gebäudes (100 qm),K0353,1808
+2017,Lüchow-Dannenbe,Nutzfläche des Gebäudes (100 qm),K0354,275
+2017,Lüneburg,Nutzfläche des Gebäudes (100 qm),K0355,457
+2017,Lüneburg,Hanses,Nutzfläche des Gebäudes (100 qm),K0355022,175
+2017,Lüneburg (oh. L,Nutzfläche des Gebäudes (100 qm),K0355900,282
+2017,Osterholz,Nutzfläche des Gebäudes (100 qm),K0356,486
+2017,Rotenburg (Wümm,Nutzfläche des Gebäudes (100 qm),K0357,1184
+2017,Heidekreis,Nutzfläche des Gebäudes (100 qm),K0358,471
+2017,Stade,Nutzfläche des Gebäudes (100 qm),K0359,1350
+2017,Stade,Hansestad,Nutzfläche des Gebäudes (100 qm),K0359038,367
+2017,Stade (oh.Stade,Nutzfläche des Gebäudes (100 qm),K0359900,983
+2017,Uelzen,Nutzfläche des Gebäudes (100 qm),K0360,362
+2017,Verden,Nutzfläche des Gebäudes (100 qm),K0361,730
+2017,Weser-Ems,Nutzfläche des Gebäudes (100 qm),K04,18270
+2017,Delmenhorst,Sta,Nutzfläche des Gebäudes (100 qm),K0401,232
+2017,Emden,Stadt,Nutzfläche des Gebäudes (100 qm),K0402,155
+2017,Oldenburg(Oldb),Nutzfläche des Gebäudes (100 qm),K0403,481
+2017,Osnabrück Stadt,Nutzfläche des Gebäudes (100 qm),K0404,385
+2017,Wilhelmshaven S,Nutzfläche des Gebäudes (100 qm),K0405,70
+2017,Ammerland,Nutzfläche des Gebäudes (100 qm),K0451,1175
+2017,Aurich,Nutzfläche des Gebäudes (100 qm),K0452,1109
+2017,Cloppenburg,Nutzfläche des Gebäudes (100 qm),K0453,1582
+2017,Emsland,Nutzfläche des Gebäudes (100 qm),K0454,4899
+2017,Lingen (Ems) St,Nutzfläche des Gebäudes (100 qm),K0454032,451
+2017,Emsland (oh. Li,Nutzfläche des Gebäudes (100 qm),K0454900,4449
+2017,Friesland,Nutzfläche des Gebäudes (100 qm),K0455,621
+2017,Grafschaft Bent,Nutzfläche des Gebäudes (100 qm),K0456,1373
+2017,Nordhorn Stadt,Nutzfläche des Gebäudes (100 qm),K0456015,342
+2017,Grfsch.Bentheim,Nutzfläche des Gebäudes (100 qm),K0456900,1030
+2017,Leer,Nutzfläche des Gebäudes (100 qm),K0457,647
+2017,Oldenburg,Nutzfläche des Gebäudes (100 qm),K0458,468
+2017,Osnabrück,Nutzfläche des Gebäudes (100 qm),K0459,2233
+2017,Melle Stadt,Nutzfläche des Gebäudes (100 qm),K0459024,246
+2017,Osnabrück (oh.M,Nutzfläche des Gebäudes (100 qm),K0459900,1987
+2017,Vechta,Nutzfläche des Gebäudes (100 qm),K0460,2214
+2017,Wesermarsch,Nutzfläche des Gebäudes (100 qm),K0461,253
+2017,Wittmund,Nutzfläche des Gebäudes (100 qm),K0462,373
+2017,Niedersachsen,Veranschl. Kosten des Bauwerkes (1000 Euro),K00,7573199
+2017,Braunschweig,Veranschl. Kosten des Bauwerkes (1000 Euro),K01,1413268
+2017,Braunschweig St,Veranschl. Kosten des Bauwerkes (1000 Euro),K0101,172373
+2017,Salzgitter Stad,Veranschl. Kosten des Bauwerkes (1000 Euro),K0102,49781
+2017,Wolfsburg Stadt,Veranschl. Kosten des Bauwerkes (1000 Euro),K0103,269532
+2017,Gifhorn,Veranschl. Kosten des Bauwerkes (1000 Euro),K0151,220872
+2017,Goslar,Veranschl. Kosten des Bauwerkes (1000 Euro),K0153,26273
+2017,Goslar Stadt,Veranschl. Kosten des Bauwerkes (1000 Euro),K0153017,5679
+2017,Goslar (oh. Gos,Veranschl. Kosten des Bauwerkes (1000 Euro),K0153900,20594
+2017,Helmstedt,Veranschl. Kosten des Bauwerkes (1000 Euro),K0154,63215
+2017,Northeim,Veranschl. Kosten des Bauwerkes (1000 Euro),K0155,102249
+2017,Peine,Veranschl. Kosten des Bauwerkes (1000 Euro),K0157,177503
+2017,Peine Stadt,Veranschl. Kosten des Bauwerkes (1000 Euro),K0157006,91534
+2017,Peine (oh. Pein,Veranschl. Kosten des Bauwerkes (1000 Euro),K0157900,85969
+2017,Wolfenbüttel,Veranschl. Kosten des Bauwerkes (1000 Euro),K0158,41277
+2017,Wolfenbüttel St,Veranschl. Kosten des Bauwerkes (1000 Euro),K0158037,18757
+2017,Wolfenbüttel (o,Veranschl. Kosten des Bauwerkes (1000 Euro),K0158900,22520
+2017,Göttingen,Veranschl. Kosten des Bauwerkes (1000 Euro),K0159,290193
+2017,Göttingen Stadt,Veranschl. Kosten des Bauwerkes (1000 Euro),K0159016,147333
+2017,Göttingen (oh.,Veranschl. Kosten des Bauwerkes (1000 Euro),K0159900,142860
+2017,Hannover,Veranschl. Kosten des Bauwerkes (1000 Euro),K02,1423264
+2017,Hannover Region,Veranschl. Kosten des Bauwerkes (1000 Euro),K0241,907109
+2017,Hannover Landes,Veranschl. Kosten des Bauwerkes (1000 Euro),K0241001,330682
+2017,Garbsen Stadt,Veranschl. Kosten des Bauwerkes (1000 Euro),K0241005,79864
+2017,Langenhagen Sta,Veranschl. Kosten des Bauwerkes (1000 Euro),K0241010,77303
+2017,Hann.Reg.(oh.Ha,Veranschl. Kosten des Bauwerkes (1000 Euro),K0241900,419260
+2017,Diepholz,Veranschl. Kosten des Bauwerkes (1000 Euro),K0251,127398
+2017,Hameln-Pyrmont,Veranschl. Kosten des Bauwerkes (1000 Euro),K0252,40764
+2017,Hameln Stadt,Veranschl. Kosten des Bauwerkes (1000 Euro),K0252006,23006
+2017,Hameln-Pyrmont,Veranschl. Kosten des Bauwerkes (1000 Euro),K0252900,17758
+2017,Hildesheim,Veranschl. Kosten des Bauwerkes (1000 Euro),K0254,175090
+2017,Hildesheim Stad,Veranschl. Kosten des Bauwerkes (1000 Euro),K0254021,77913
+2017,Hildesheim(oh.H,Veranschl. Kosten des Bauwerkes (1000 Euro),K0254900,97177
+2017,Holzminden,Veranschl. Kosten des Bauwerkes (1000 Euro),K0255,19594
+2017,Nienburg (Weser,Veranschl. Kosten des Bauwerkes (1000 Euro),K0256,69616
+2017,Schaumburg,Veranschl. Kosten des Bauwerkes (1000 Euro),K0257,83693
+2017,Lüneburg,Veranschl. Kosten des Bauwerkes (1000 Euro),K03,1739337
+2017,Celle,Veranschl. Kosten des Bauwerkes (1000 Euro),K0351,126552
+2017,Celle Stadt,Veranschl. Kosten des Bauwerkes (1000 Euro),K0351006,32566
+2017,Celle (oh.Celle,Veranschl. Kosten des Bauwerkes (1000 Euro),K0351900,93986
+2017,Cuxhaven,Veranschl. Kosten des Bauwerkes (1000 Euro),K0352,188592
+2017,Cuxhaven Stadt,Veranschl. Kosten des Bauwerkes (1000 Euro),K0352011,37700
+2017,Cuxhaven (oh. C,Veranschl. Kosten des Bauwerkes (1000 Euro),K0352900,150892
+2017,Harburg,Veranschl. Kosten des Bauwerkes (1000 Euro),K0353,405560
+2017,Lüchow-Dannenbe,Veranschl. Kosten des Bauwerkes (1000 Euro),K0354,41491
+2017,Lüneburg,Veranschl. Kosten des Bauwerkes (1000 Euro),K0355,128125
+2017,Lüneburg Hanses,Veranschl. Kosten des Bauwerkes (1000 Euro),K0355022,42847
+2017,Lüneburg (oh. L,Veranschl. Kosten des Bauwerkes (1000 Euro),K0355900,85278
+2017,Osterholz,Veranschl. Kosten des Bauwerkes (1000 Euro),K0356,114621
+2017,Rotenburg (Wümm,Veranschl. Kosten des Bauwerkes (1000 Euro),K0357,170171
+2017,Heidekreis,Veranschl. Kosten des Bauwerkes (1000 Euro),K0358,107920
+2017,Stade,Veranschl. Kosten des Bauwerkes (1000 Euro),K0359,252937
+2017,Stade Hansestad,Veranschl. Kosten des Bauwerkes (1000 Euro),K0359038,44064
+2017,Stade (oh.Stade,Veranschl. Kosten des Bauwerkes (1000 Euro),K0359900,208873
+2017,Uelzen,Veranschl. Kosten des Bauwerkes (1000 Euro),K0360,73112
+2017,Verden,Veranschl. Kosten des Bauwerkes (1000 Euro),K0361,130256
+2017,Weser-Ems,Veranschl. Kosten des Bauwerkes (1000 Euro),K04,2997330
+2017,Delmenhorst Sta,Veranschl. Kosten des Bauwerkes (1000 Euro),K0401,40399
+2017,Emden Stadt,Veranschl. Kosten des Bauwerkes (1000 Euro),K0402,19955
+2017,Oldenburg(Oldb),Veranschl. Kosten des Bauwerkes (1000 Euro),K0403,200193
+2017,Osnabrück Stadt,Veranschl. Kosten des Bauwerkes (1000 Euro),K0404,85119
+2017,Wilhelmshaven S,Veranschl. Kosten des Bauwerkes (1000 Euro),K0405,19085
+2017,Ammerland,Veranschl. Kosten des Bauwerkes (1000 Euro),K0451,233310
+2017,Aurich,Veranschl. Kosten des Bauwerkes (1000 Euro),K0452,148157
+2017,Cloppenburg,Veranschl. Kosten des Bauwerkes (1000 Euro),K0453,223328
+2017,Emsland,Veranschl. Kosten des Bauwerkes (1000 Euro),K0454,611555
+2017,Lingen (Ems) St,Veranschl. Kosten des Bauwerkes (1000 Euro),K0454032,102521
+2017,Emsland (oh. Li,Veranschl. Kosten des Bauwerkes (1000 Euro),K0454900,509034
+2017,Friesland,Veranschl. Kosten des Bauwerkes (1000 Euro),K0455,114599
+2017,Grafschaft Bent,Veranschl. Kosten des Bauwerkes (1000 Euro),K0456,175959
+2017,Nordhorn Stadt,Veranschl. Kosten des Bauwerkes (1000 Euro),K0456015,57121
+2017,Grfsch.Bentheim,Veranschl. Kosten des Bauwerkes (1000 Euro),K0456900,118838
+2017,Leer,Veranschl. Kosten des Bauwerkes (1000 Euro),K0457,145807
+2017,Oldenburg,Veranschl. Kosten des Bauwerkes (1000 Euro),K0458,116542
+2017,Osnabrück,Veranschl. Kosten des Bauwerkes (1000 Euro),K0459,392290
+2017,Melle Stadt,Veranschl. Kosten des Bauwerkes (1000 Euro),K0459024,64241
+2017,Osnabrück (oh.M,Veranschl. Kosten des Bauwerkes (1000 Euro),K0459900,328049
+2017,Vechta,Veranschl. Kosten des Bauwerkes (1000 Euro),K0460,345546
+2017,Wesermarsch,Veranschl. Kosten des Bauwerkes (1000 Euro),K0461,62519
+2017,Wittmund,Veranschl. Kosten des Bauwerkes (1000 Euro),K0462,62967
 2017,Niedersachsen,Wohnungen insgesamt,K00,31350
 2017,Braunschweig,Wohnungen insgesamt,K01,4840
 2017,Braunschweig St,Wohnungen insgesamt,K0101,570
@@ -1218,9 +266,9 @@ Bauwerkes
 2017,Langenhagen Sta,Wohnungen insgesamt,K0241010,234
 2017,Hann.Reg.(oh.Ha,Wohnungen insgesamt,K0241900,1666
 2017,Diepholz,Wohnungen insgesamt,K0251,750
-2017,HamelnPyrmont,Wohnungen insgesamt,K0252,141
+2017,Hameln-Pyrmont,Wohnungen insgesamt,K0252,141
 2017,Hameln Stadt,Wohnungen insgesamt,K0252006,66
-2017,HamelnPyrmont,Wohnungen insgesamt,K0252900,75
+2017,Hameln-Pyrmont,Wohnungen insgesamt,K0252900,75
 2017,Hildesheim,Wohnungen insgesamt,K0254,594
 2017,Hildesheim Stad,Wohnungen insgesamt,K0254021,217
 2017,Hildesheim(oh.H,Wohnungen insgesamt,K0254900,377
@@ -1235,7 +283,7 @@ Bauwerkes
 2017,Cuxhaven Stadt,Wohnungen insgesamt,K0352011,181
 2017,Cuxhaven (oh. C,Wohnungen insgesamt,K0352900,579
 2017,Harburg,Wohnungen insgesamt,K0353,1475
-2017,LüchowDannenbe,Wohnungen insgesamt,K0354,158
+2017,Lüchow-Dannenbe,Wohnungen insgesamt,K0354,158
 2017,Lüneburg,Wohnungen insgesamt,K0355,613
 2017,Lüneburg Hanses,Wohnungen insgesamt,K0355022,158
 2017,Lüneburg (oh. L,Wohnungen insgesamt,K0355900,455
@@ -1247,7 +295,7 @@ Bauwerkes
 2017,Stade (oh.Stade,Wohnungen insgesamt,K0359900,1046
 2017,Uelzen,Wohnungen insgesamt,K0360,217
 2017,Verden,Wohnungen insgesamt,K0361,587
-2017,WeserEms,Wohnungen insgesamt,K04,13035
+2017,Weser-Ems,Wohnungen insgesamt,K04,13035
 2017,Delmenhorst Sta,Wohnungen insgesamt,K0401,164
 2017,Emden Stadt,Wohnungen insgesamt,K0402,60
 2017,Oldenburg(Oldb),Wohnungen insgesamt,K0403,1197
@@ -1298,9 +346,9 @@ Bauwerkes
 2017,Langenhagen Sta,1 Zimmer,K0241010,1
 2017,Hann.Reg.(oh.Ha,1 Zimmer,K0241900,27
 2017,Diepholz,1 Zimmer,K0251,3
-2017,HamelnPyrmont,1 Zimmer,K0252,0
+2017,Hameln-Pyrmont,1 Zimmer,K0252,0
 2017,Hameln Stadt,1 Zimmer,K0252006,0
-2017,HamelnPyrmont,1 Zimmer,K0252900,0
+2017,Hameln-Pyrmont,1 Zimmer,K0252900,0
 2017,Hildesheim,1 Zimmer,K0254,4
 2017,Hildesheim Stad,1 Zimmer,K0254021,4
 2017,Hildesheim(oh.H,1 Zimmer,K0254900,0
@@ -1315,7 +363,7 @@ Bauwerkes
 2017,Cuxhaven Stadt,1 Zimmer,K0352011,1
 2017,Cuxhaven (oh. C,1 Zimmer,K0352900,1
 2017,Harburg,1 Zimmer,K0353,20
-2017,LüchowDannenbe,1 Zimmer,K0354,3
+2017,Lüchow-Dannenbe,1 Zimmer,K0354,3
 2017,Lüneburg,1 Zimmer,K0355,101
 2017,Lüneburg Hanses,1 Zimmer,K0355022,3
 2017,Lüneburg (oh. L,1 Zimmer,K0355900,98
@@ -1327,7 +375,7 @@ Bauwerkes
 2017,Stade (oh.Stade,1 Zimmer,K0359900,40
 2017,Uelzen,1 Zimmer,K0360,2
 2017,Verden,1 Zimmer,K0361,11
-2017,WeserEms,1 Zimmer,K04,271
+2017,Weser-Ems,1 Zimmer,K04,271
 2017,Delmenhorst Sta,1 Zimmer,K0401,2
 2017,Emden Stadt,1 Zimmer,K0402,2
 2017,Oldenburg(Oldb),1 Zimmer,K0403,66
@@ -1378,9 +426,9 @@ Bauwerkes
 2017,Langenhagen Sta,2 Zimmer,K0241010,70
 2017,Hann.Reg.(oh.Ha,2 Zimmer,K0241900,289
 2017,Diepholz,2 Zimmer,K0251,90
-2017,HamelnPyrmont,2 Zimmer,K0252,11
+2017,Hameln-Pyrmont,2 Zimmer,K0252,11
 2017,Hameln Stadt,2 Zimmer,K0252006,9
-2017,HamelnPyrmont,2 Zimmer,K0252900,2
+2017,Hameln-Pyrmont,2 Zimmer,K0252900,2
 2017,Hildesheim,2 Zimmer,K0254,95
 2017,Hildesheim Stad,2 Zimmer,K0254021,50
 2017,Hildesheim(oh.H,2 Zimmer,K0254900,45
@@ -1395,7 +443,7 @@ Bauwerkes
 2017,Cuxhaven Stadt,2 Zimmer,K0352011,34
 2017,Cuxhaven (oh. C,2 Zimmer,K0352900,37
 2017,Harburg,2 Zimmer,K0353,366
-2017,LüchowDannenbe,2 Zimmer,K0354,25
+2017,Lüchow-Dannenbe,2 Zimmer,K0354,25
 2017,Lüneburg,2 Zimmer,K0355,59
 2017,Lüneburg Hanses,2 Zimmer,K0355022,33
 2017,Lüneburg (oh. L,2 Zimmer,K0355900,26
@@ -1407,7 +455,7 @@ Bauwerkes
 2017,Stade (oh.Stade,2 Zimmer,K0359900,171
 2017,Uelzen,2 Zimmer,K0360,17
 2017,Verden,2 Zimmer,K0361,59
-2017,WeserEms,2 Zimmer,K04,2048
+2017,Weser-Ems,2 Zimmer,K04,2048
 2017,Delmenhorst Sta,2 Zimmer,K0401,19
 2017,Emden Stadt,2 Zimmer,K0402,2
 2017,Oldenburg(Oldb),2 Zimmer,K0403,313
@@ -1458,9 +506,9 @@ Bauwerkes
 2017,Langenhagen Sta,3 Zimmer,K0241010,88
 2017,Hann.Reg.(oh.Ha,3 Zimmer,K0241900,382
 2017,Diepholz,3 Zimmer,K0251,202
-2017,HamelnPyrmont,3 Zimmer,K0252,18
+2017,Hameln-Pyrmont,3 Zimmer,K0252,18
 2017,Hameln Stadt,3 Zimmer,K0252006,18
-2017,HamelnPyrmont,3 Zimmer,K0252900,0
+2017,Hameln-Pyrmont,3 Zimmer,K0252900,0
 2017,Hildesheim,3 Zimmer,K0254,71
 2017,Hildesheim Stad,3 Zimmer,K0254021,38
 2017,Hildesheim(oh.H,3 Zimmer,K0254900,33
@@ -1475,7 +523,7 @@ Bauwerkes
 2017,Cuxhaven Stadt,3 Zimmer,K0352011,60
 2017,Cuxhaven (oh. C,3 Zimmer,K0352900,86
 2017,Harburg,3 Zimmer,K0353,444
-2017,LüchowDannenbe,3 Zimmer,K0354,40
+2017,Lüchow-Dannenbe,3 Zimmer,K0354,40
 2017,Lüneburg,3 Zimmer,K0355,122
 2017,Lüneburg Hanses,3 Zimmer,K0355022,65
 2017,Lüneburg (oh. L,3 Zimmer,K0355900,57
@@ -1487,7 +535,7 @@ Bauwerkes
 2017,Stade (oh.Stade,3 Zimmer,K0359900,210
 2017,Uelzen,3 Zimmer,K0360,70
 2017,Verden,3 Zimmer,K0361,173
-2017,WeserEms,3 Zimmer,K04,3072
+2017,Weser-Ems,3 Zimmer,K04,3072
 2017,Delmenhorst Sta,3 Zimmer,K0401,51
 2017,Emden Stadt,3 Zimmer,K0402,13
 2017,Oldenburg(Oldb),3 Zimmer,K0403,321
@@ -1538,9 +586,9 @@ Bauwerkes
 2017,Langenhagen Sta,4 Zimmer,K0241010,32
 2017,Hann.Reg.(oh.Ha,4 Zimmer,K0241900,225
 2017,Diepholz,4 Zimmer,K0251,112
-2017,HamelnPyrmont,4 Zimmer,K0252,32
+2017,Hameln-Pyrmont,4 Zimmer,K0252,32
 2017,Hameln Stadt,4 Zimmer,K0252006,8
-2017,HamelnPyrmont,4 Zimmer,K0252900,24
+2017,Hameln-Pyrmont,4 Zimmer,K0252900,24
 2017,Hildesheim,4 Zimmer,K0254,83
 2017,Hildesheim Stad,4 Zimmer,K0254021,36
 2017,Hildesheim(oh.H,4 Zimmer,K0254900,47
@@ -1555,7 +603,7 @@ Bauwerkes
 2017,Cuxhaven Stadt,4 Zimmer,K0352011,28
 2017,Cuxhaven (oh. C,4 Zimmer,K0352900,118
 2017,Harburg,4 Zimmer,K0353,220
-2017,LüchowDannenbe,4 Zimmer,K0354,30
+2017,Lüchow-Dannenbe,4 Zimmer,K0354,30
 2017,Lüneburg,4 Zimmer,K0355,77
 2017,Lüneburg Hanses,4 Zimmer,K0355022,29
 2017,Lüneburg (oh. L,4 Zimmer,K0355900,48
@@ -1567,7 +615,7 @@ Bauwerkes
 2017,Stade (oh.Stade,4 Zimmer,K0359900,188
 2017,Uelzen,4 Zimmer,K0360,23
 2017,Verden,4 Zimmer,K0361,114
-2017,WeserEms,4 Zimmer,K04,2035
+2017,Weser-Ems,4 Zimmer,K04,2035
 2017,Delmenhorst Sta,4 Zimmer,K0401,42
 2017,Emden Stadt,4 Zimmer,K0402,13
 2017,Oldenburg(Oldb),4 Zimmer,K0403,202
@@ -1618,9 +666,9 @@ Bauwerkes
 2017,Langenhagen Sta,5 Zimmer,K0241010,18
 2017,Hann.Reg.(oh.Ha,5 Zimmer,K0241900,257
 2017,Diepholz,5 Zimmer,K0251,141
-2017,HamelnPyrmont,5 Zimmer,K0252,22
+2017,Hameln-Pyrmont,5 Zimmer,K0252,22
 2017,Hameln Stadt,5 Zimmer,K0252006,6
-2017,HamelnPyrmont,5 Zimmer,K0252900,16
+2017,Hameln-Pyrmont,5 Zimmer,K0252900,16
 2017,Hildesheim,5 Zimmer,K0254,111
 2017,Hildesheim Stad,5 Zimmer,K0254021,37
 2017,Hildesheim(oh.H,5 Zimmer,K0254900,74
@@ -1635,7 +683,7 @@ Bauwerkes
 2017,Cuxhaven Stadt,5 Zimmer,K0352011,25
 2017,Cuxhaven (oh. C,5 Zimmer,K0352900,131
 2017,Harburg,5 Zimmer,K0353,209
-2017,LüchowDannenbe,5 Zimmer,K0354,20
+2017,Lüchow-Dannenbe,5 Zimmer,K0354,20
 2017,Lüneburg,5 Zimmer,K0355,102
 2017,Lüneburg Hanses,5 Zimmer,K0355022,7
 2017,Lüneburg (oh. L,5 Zimmer,K0355900,95
@@ -1647,7 +695,7 @@ Bauwerkes
 2017,Stade (oh.Stade,5 Zimmer,K0359900,165
 2017,Uelzen,5 Zimmer,K0360,47
 2017,Verden,5 Zimmer,K0361,95
-2017,WeserEms,5 Zimmer,K04,1892
+2017,Weser-Ems,5 Zimmer,K04,1892
 2017,Delmenhorst Sta,5 Zimmer,K0401,17
 2017,Emden Stadt,5 Zimmer,K0402,0
 2017,Oldenburg(Oldb),5 Zimmer,K0403,153
@@ -1698,9 +746,9 @@ Bauwerkes
 2017,Langenhagen Sta,6 Zimmer,K0241010,15
 2017,Hann.Reg.(oh.Ha,6 Zimmer,K0241900,248
 2017,Diepholz,6 Zimmer,K0251,116
-2017,HamelnPyrmont,6 Zimmer,K0252,23
+2017,Hameln-Pyrmont,6 Zimmer,K0252,23
 2017,Hameln Stadt,6 Zimmer,K0252006,10
-2017,HamelnPyrmont,6 Zimmer,K0252900,13
+2017,Hameln-Pyrmont,6 Zimmer,K0252900,13
 2017,Hildesheim,6 Zimmer,K0254,122
 2017,Hildesheim Stad,6 Zimmer,K0254021,25
 2017,Hildesheim(oh.H,6 Zimmer,K0254900,97
@@ -1715,7 +763,7 @@ Bauwerkes
 2017,Cuxhaven Stadt,6 Zimmer,K0352011,18
 2017,Cuxhaven (oh. C,6 Zimmer,K0352900,84
 2017,Harburg,6 Zimmer,K0353,113
-2017,LüchowDannenbe,6 Zimmer,K0354,15
+2017,Lüchow-Dannenbe,6 Zimmer,K0354,15
 2017,Lüneburg,6 Zimmer,K0355,66
 2017,Lüneburg Hanses,6 Zimmer,K0355022,8
 2017,Lüneburg (oh. L,6 Zimmer,K0355900,58
@@ -1727,7 +775,7 @@ Bauwerkes
 2017,Stade (oh.Stade,6 Zimmer,K0359900,128
 2017,Uelzen,6 Zimmer,K0360,28
 2017,Verden,6 Zimmer,K0361,69
-2017,WeserEms,6 Zimmer,K04,1673
+2017,Weser-Ems,6 Zimmer,K04,1673
 2017,Delmenhorst Sta,6 Zimmer,K0401,19
 2017,Emden Stadt,6 Zimmer,K0402,12
 2017,Oldenburg(Oldb),6 Zimmer,K0403,70
@@ -1778,9 +826,9 @@ Bauwerkes
 2017,Langenhagen Sta,7 und mehr Zimmer,K0241010,12
 2017,Hann.Reg.(oh.Ha,7 und mehr Zimmer,K0241900,238
 2017,Diepholz,7 und mehr Zimmer,K0251,86
-2017,HamelnPyrmont,7 und mehr Zimmer,K0252,35
+2017,Hameln-Pyrmont,7 und mehr Zimmer,K0252,35
 2017,Hameln Stadt,7 und mehr Zimmer,K0252006,15
-2017,HamelnPyrmont,7 und mehr Zimmer,K0252900,20
+2017,Hameln-Pyrmont,7 und mehr Zimmer,K0252900,20
 2017,Hildesheim,7 und mehr Zimmer,K0254,108
 2017,Hildesheim Stad,7 und mehr Zimmer,K0254021,27
 2017,Hildesheim(oh.H,7 und mehr Zimmer,K0254900,81
@@ -1795,7 +843,7 @@ Bauwerkes
 2017,Cuxhaven Stadt,7 und mehr Zimmer,K0352011,15
 2017,Cuxhaven (oh. C,7 und mehr Zimmer,K0352900,122
 2017,Harburg,7 und mehr Zimmer,K0353,103
-2017,LüchowDannenbe,7 und mehr Zimmer,K0354,25
+2017,Lüchow-Dannenbe,7 und mehr Zimmer,K0354,25
 2017,Lüneburg,7 und mehr Zimmer,K0355,86
 2017,Lüneburg Hanses,7 und mehr Zimmer,K0355022,13
 2017,Lüneburg (oh. L,7 und mehr Zimmer,K0355900,73
@@ -1807,7 +855,7 @@ Bauwerkes
 2017,Stade (oh.Stade,7 und mehr Zimmer,K0359900,144
 2017,Uelzen,7 und mehr Zimmer,K0360,30
 2017,Verden,7 und mehr Zimmer,K0361,66
-2017,WeserEms,7 und mehr Zimmer,K04,2044
+2017,Weser-Ems,7 und mehr Zimmer,K04,2044
 2017,Delmenhorst Sta,7 und mehr Zimmer,K0401,14
 2017,Emden Stadt,7 und mehr Zimmer,K0402,18
 2017,Oldenburg(Oldb),7 und mehr Zimmer,K0403,72
